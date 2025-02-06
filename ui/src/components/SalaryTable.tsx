@@ -83,9 +83,6 @@ const TableRow = React.memo<{
 
   return (
     <tr className={index % 2 === 0 ? "bg-gray-50" : "bg-white"}>
-      <td className="px-6 py-4 text-sm font-medium text-gray-900">
-        {item.kldb}
-      </td>
       <td className="px-6 py-4 text-sm text-gray-900">{item.name}</td>
       <td className="px-6 py-4 text-sm text-gray-500">
         <JobList berufe={item.berufe} globalExpanded={globalExpanded} />
@@ -130,9 +127,6 @@ const SalaryTable: React.FC<SalaryTableProps> = ({ data }) => {
         <table className="min-w-full bg-white">
           <thead>
             <tr className="bg-gray-800 text-white">
-              <th className="px-6 py-3 text-left text-sm font-semibold uppercase tracking-wider">
-                KLDB
-              </th>
               <th className="w-1/4 px-6 py-3 text-left text-sm font-semibold uppercase tracking-wider">
                 Berufsbezeichnung
               </th>
