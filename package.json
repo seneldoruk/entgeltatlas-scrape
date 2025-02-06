@@ -1,0 +1,14 @@
+{
+  "name": "entgeltatlas-scrape",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "scrape": "cd scripts && bun run scraper.ts && bun run transform-and-rank.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
