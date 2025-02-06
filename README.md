@@ -2,6 +2,8 @@
 
 I've seen numbers on Entgeltatlas, but couln't see a ranking of the occupations based on salary. While playing with the network tab, I've found the API and turns out it's easy to use, although I'm not sure if you're supposed to use it.
 
+Here is the table: https://seneldoruk.github.io/entgeltatlas-scrape/
+
 - scrape/
 
   - scripts/data
