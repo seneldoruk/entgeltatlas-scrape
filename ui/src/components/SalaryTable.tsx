@@ -36,45 +36,46 @@ const formatSalaries = (
   return [formatSalary(q25), formatSalary(median), formatSalary(q75)];
 };
 
-const JobList = React.memo<{ berufe: string[]; globalExpanded: boolean }>(
-  ({ berufe, globalExpanded }) => {
-    const detailsRef = useRef<HTMLDetailsElement>(null);
-    const [isOpen, setIsOpen] = useState(globalExpanded);
+const JobList = React.memo<{
+  berufe: string[];
+  globalExpanded: { state: boolean; timestamp: number };
+}>(({ berufe, globalExpanded }) => {
+  const detailsRef = useRef<HTMLDetailsElement>(null);
+  const [isOpen, setIsOpen] = useState(globalExpanded.state);
 
-    useEffect(() => {
-      if (detailsRef.current) {
-        detailsRef.current.open = globalExpanded;
-        setIsOpen(globalExpanded);
-      }
-    }, [globalExpanded]);
+  useEffect(() => {
+    setIsOpen(globalExpanded.state);
+    if (detailsRef.current) {
+      detailsRef.current.open = globalExpanded.state;
+    }
+  }, [globalExpanded]);
 
-    return (
-      <details
-        ref={detailsRef}
-        className="group marker:content-[''] relative"
-        onToggle={(e) => setIsOpen((e.target as HTMLDetailsElement).open)}
-      >
-        <summary className="cursor-pointer list-none">
-          <span className="text-blue-600 hover:text-blue-800 font-medium">
-            Berufe {isOpen ? "verbergen" : "anzeigen"}
-          </span>
-        </summary>
-        <ul className="list-disc list-inside mt-2">
-          {berufe.map((beruf, i) => (
-            <li key={i} className="mb-1 text-sm">
-              {beruf}
-            </li>
-          ))}
-        </ul>
-      </details>
-    );
-  }
-);
+  return (
+    <details
+      ref={detailsRef}
+      className="group marker:content-[''] relative"
+      onToggle={(e) => setIsOpen((e.target as HTMLDetailsElement).open)}
+    >
+      <summary className="cursor-pointer list-none">
+        <span className="text-blue-600 hover:text-blue-800 font-medium">
+          Berufe {isOpen ? "verbergen" : "anzeigen"}
+        </span>
+      </summary>
+      <ul className="list-disc list-inside mt-2">
+        {berufe.map((beruf, i) => (
+          <li key={i} className="mb-1 text-sm">
+            {beruf}
+          </li>
+        ))}
+      </ul>
+    </details>
+  );
+});
 
 const TableRow = React.memo<{
   item: SalaryData;
   index: number;
-  globalExpanded: boolean;
+  globalExpanded: { state: boolean; timestamp: number };
 }>(({ item, index, globalExpanded }) => {
   const formattedSalaries = useMemo(
     () => formatSalaries(item.entgeltQ25, item.entgelt, item.entgeltQ75),
@@ -101,10 +102,16 @@ const TableRow = React.memo<{
 });
 
 const SalaryTable: React.FC<SalaryTableProps> = ({ data }) => {
-  const [globalExpanded, setGlobalExpanded] = useState(true);
+  const [globalExpanded, setGlobalExpanded] = useState({
+    state: true,
+    timestamp: Date.now(),
+  });
 
   const toggleAll = useCallback((expanded: boolean) => {
-    setGlobalExpanded(expanded);
+    setGlobalExpanded({
+      state: expanded,
+      timestamp: Date.now(),
+    });
   }, []);
 
   return (
