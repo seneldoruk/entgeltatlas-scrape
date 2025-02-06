@@ -1,0 +1,21 @@
+---
+import Layout from "../layouts/Layout.astro";
+import SalaryTable from "../components/SalaryTable";
+import salaryData from "../../../scrape/scripts/out/results_ranked.json";
+---
+
+<Layout>
+  <main class="container mx-auto px-4 py-8">
+    <h1 class="text-4xl font-bold text-gray-900 mb-2">
+      Entgeltatlas Deutschland
+    </h1>
+
+    <SalaryTable client:load data={salaryData} />
+  </main>
+</Layout>
+
+<style>
+  main {
+    min-height: 100vh;
+  }
+</style>
