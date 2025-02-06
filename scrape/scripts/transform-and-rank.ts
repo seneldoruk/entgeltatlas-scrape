@@ -29,9 +29,9 @@ const transformedData = Object.entries(rawData)
         kldb: key,
         name: value.occupation_name,
         berufe: kldbBerufMap.get(key) || [],
-        entgelt: median == -1 || median == -2 ? "n/a" : median,
-        entgeltQ25: q25 == -1 || q25 == -2 ? "n/a" : q25,
-        entgeltQ75: q75 == -1 || q75 == -2 ? "n/a" : q75,
+        entgelt: median < 0 ? "n/a" : median,
+        entgeltQ25: q25 < 0 ? "n/a" : q25,
+        entgeltQ75: q75 < 0 ? "n/a" : q75,
       };
     } catch (e) {
       console.error(`Error transforming ${key}`);
@@ -43,49 +43,28 @@ const transformedData = Object.entries(rawData)
   .filter((item) => item !== null)
   // Sort by entgelt in descending order
   .sort((a, b) => {
-    // If both have valid entgelt values, compare them
-    if (a?.entgelt !== "n/a" && b?.entgelt !== "n/a") {
-      return b?.entgelt - a?.entgelt;
+    const getMedian = (item: any) => {
+      if (item.entgelt !== "n/a") return item.entgelt;
+      if (item.entgeltQ25 !== "n/a") return 7100;
+      return 0;
+    };
+
+    const getQ25 = (item: any) => {
+      if (item.entgeltQ25 !== "n/a") return item.entgeltQ25;
+      return 0;
+    };
+
+    const medianA = getMedian(a);
+    const medianB = getMedian(b);
+
+    if (medianA !== medianB) {
+      return medianB - medianA;
     }
 
-    // If both have valid Q25 values, compare them
-    if (a?.entgeltQ25 !== "n/a" && b?.entgeltQ25 !== "n/a") {
-      return b?.entgeltQ25 - a?.entgeltQ25;
-    }
+    const q25A = getQ25(a);
+    const q25B = getQ25(b);
 
-    // If both have valid Q75 values, compare them
-    if (a?.entgeltQ75 !== "n/a" && b?.entgeltQ75 !== "n/a") {
-      return b?.entgeltQ75 - a?.entgeltQ75;
-    }
-
-    // If we get here, at least one of the items has no valid comparison values
-    // Push items with no valid values to the end
-    if (
-      a?.entgelt === "n/a" &&
-      b?.entgelt === "n/a" &&
-      a?.entgeltQ25 === "n/a" &&
-      b?.entgeltQ25 === "n/a" &&
-      a?.entgeltQ75 === "n/a" &&
-      b?.entgeltQ75 === "n/a"
-    ) {
-      return 0; // both have no valid values, consider them equal
-    }
-
-    // Push items with no valid values to the end
-    if (
-      a?.entgelt === "n/a" &&
-      a?.entgeltQ25 === "n/a" &&
-      a?.entgeltQ75 === "n/a"
-    )
-      return 1;
-    if (
-      b?.entgelt === "n/a" &&
-      b?.entgeltQ25 === "n/a" &&
-      b?.entgeltQ75 === "n/a"
-    )
-      return -1;
-
-    return 0;
+    return q25B - q25A;
   });
 
 // Write the transformed and sorted data

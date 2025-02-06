@@ -492,35 +492,6 @@
     "entgeltQ75": "n/a"
   },
   {
-    "kldb": "41393",
-    "name": "Aufsichtskräfte - Chemie",
-    "berufe": [
-      "Chemiemeister/in",
-      "Gruppenleiter/in (Chemielabor)",
-      "Industriemeister/in - Chemie",
-      "Industriemeister/in - Pharmazie",
-      "Labormeister/in",
-      "Meister/in - Anorganische Schwerchemie",
-      "Meister/in - Brenn-, Treib- und Schmierstoffe",
-      "Meister/in - chemische Industrie",
-      "Meister/in - Chemische Produktion",
-      "Meister/in - Elektrochemie",
-      "Meister/in - Fotochemie",
-      "Meister/in - Kunststoffchemie",
-      "Meister/in - Organische Grundchemie",
-      "Meister/in - Organisch-technische Chemie",
-      "Meister/in - Pharmaindustrie",
-      "Meister/in - Photochemie",
-      "Meister/in - Technische Gase",
-      "Meister/in - Thermochemie",
-      "Pharmameister/in",
-      "Schichtführer/in (Chemiebetrieb)"
-    ],
-    "entgelt": 6962,
-    "entgeltQ25": 5908,
-    "entgeltQ75": "n/a"
-  },
-  {
     "kldb": "71304",
     "name": "Berufe in der kaufmännischen und technischen Betriebswirtschaft (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
     "berufe": [
@@ -607,50 +578,6 @@
     "entgeltQ75": "n/a"
   },
   {
-    "kldb": "72304",
-    "name": "Berufe in der Steuerberatung - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Betriebswirt/in (Hochschule) - Steuern und Prüfungswesen",
-      "Dipl.-Betriebswirt/in (FH) - Steuern und Prüfungswesen",
-      "Leiter/in - Steuerwesen/Steuerkanzlei",
-      "Steuerberater/in",
-      "Steuerbevollmächtigte/r",
-      "Steuerreferent/in",
-      "Tax-Manager/in"
-    ],
-    "entgelt": 7033,
-    "entgeltQ25": 5701,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "81414",
-    "name": "Fachärzte/-ärztinnen in der Kinder- und Jugendmedizin - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Assistenzarzt/-ärztin (Uni) - Kinder-/Jugendmedizin",
-      "Facharzt/-ärztin - Kinder- und Jugendmedizin",
-      "Facharzt/-ärztin - Kinderheilkunde",
-      "Facharzt/-ärztin - Pädiatrie",
-      "Kinderarzt/-ärztin",
-      "Pädiater/in"
-    ],
-    "entgelt": 7004,
-    "entgeltQ25": 5964,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "27183",
-    "name": "Berufe in der technischen Forschung und Entwicklung (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Beamt(er/in) - Bundeswehrverwaltung (geh. techn. Dienst)",
-      "Beamt(er/in) - Wehrverwaltung (geh. techn. Dienst)",
-      "Wehrtechniker/in",
-      "Wehrverwaltungsbeamt(er/in) (geh. techn. Dienst)"
-    ],
-    "entgelt": 6914,
-    "entgeltQ25": 5799,
-    "entgeltQ75": "n/a"
-  },
-  {
     "kldb": "25214",
     "name": "Berufe in der Kraftfahrzeugtechnik - hoch komplexe Tätigkeiten",
     "berufe": [
@@ -688,6 +615,31 @@
     "entgeltQ75": "n/a"
   },
   {
+    "kldb": "71394",
+    "name": "Führungskräfte - Unternehmensorganisation und -strategie",
+    "berufe": [
+      "Bereichsleiter/in",
+      "Betriebsleiter/in - kaufmännisch",
+      "Business-Unit Leiter/in",
+      "Chief Operating Officer",
+      "Chief-Product-Officer",
+      "Chief-Technology-Officer",
+      "Commercialmanger/in",
+      "Innendienstleiter/in",
+      "Innenleiter/in (Bank)",
+      "Kaufm. Leiter/in/Teamleiter/in",
+      "Leiter/in - Digitalisierung",
+      "Leiter/in - Projekt-/Programmmanagement",
+      "Leiter/in - Unternehmensentwicklung",
+      "Niederlassungsleiter/in",
+      "Organisationsleiter/in",
+      "Verwaltungsleiter/in (Wirtschaft)"
+    ],
+    "entgelt": "n/a",
+    "entgeltQ25": 5698,
+    "entgeltQ75": "n/a"
+  },
+  {
     "kldb": "92294",
     "name": "Führungskräfte - Öffentlichkeitsarbeit",
     "berufe": [
@@ -697,6 +649,52 @@
     ],
     "entgelt": "n/a",
     "entgeltQ25": 5677,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "72194",
+    "name": "Führungskräfte - Versicherungs- und Finanzdienstleistungen",
+    "berufe": [
+      "Abteilungsleiter/in (Versicherung)",
+      "Agenturleiter/in - Versicherung",
+      "Außendienstleiter/in (Versicherung)",
+      "Bankbereichsleiter/in",
+      "Bankbevollmächtigte/r",
+      "Bankdirektor/in",
+      "Bankfilialleiter/in",
+      "Bankpräsident/in",
+      "Bankprokurist/in",
+      "Bankvorstand",
+      "Bereichsleiter/in (Versicherung)",
+      "Bezirksdirektor/in (Bausparkasse)",
+      "Bezirksdirektor/in (Krankenversicherung)",
+      "Bezirksleiter/in (Versicherung)",
+      "Chief-Investment-Officer",
+      "Direktor/in - Sparkassendienst",
+      "Filialleiter/in - Bank",
+      "Finanzierungsbüroinhaber/in",
+      "Gebietsdirektor/in (Bausparkasse)",
+      "Geschäftsstellenleiter/in (Bank)",
+      "Geschäftsstellenleiter/in (Versicherung)",
+      "Inspektoratsleiter/in (Versicherung)",
+      "Krankenversicherungsdirektor/in",
+      "Leitende/r Direktor/in - Sparkassendienst",
+      "Leiter/in - Asset Management",
+      "Leiter/in - Markt (Banken)",
+      "Leiter/in - Marktfolge (Banken)",
+      "Leiter/in - Risikomanagement",
+      "Organisationsleiter/in (Bausparkasse)",
+      "Regionalbereichsleiter/in (Versicherung)",
+      "Regionaldirektor/in (Bausparkasse)",
+      "Sachgebietsleiter/in (Versicherung)",
+      "Sparkassenabteilungsdirektor/in",
+      "Sparkassendirektor/in",
+      "Sparkassenleiter/in",
+      "Sparkassenzweigstellenleiter/in",
+      "Versicherungsdirektor/in"
+    ],
+    "entgelt": "n/a",
+    "entgeltQ25": 5574,
     "entgeltQ75": "n/a"
   },
   {
@@ -715,6 +713,241 @@
     ],
     "entgelt": "n/a",
     "entgeltQ25": 5528,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "61194",
+    "name": "Führungskräfte - Einkauf und Vertrieb",
+    "berufe": [
+      "Area Sales Manager/in",
+      "Außendienst-Gebietsmanager/in",
+      "Bezirksleiter/in",
+      "Einkaufsleiter/in",
+      "Exportleiter/in",
+      "Gebietsverkaufsleiter/in",
+      "Kundendienstleiter/in (Versicherung)",
+      "Leiter/in - Beschaffungswesen",
+      "Leiter/in - Einkauf",
+      "Leiter/in - Export",
+      "Leiter/in - Kundendienst (kaufmännisch)",
+      "Leiter/in - Vertrieb",
+      "Leiter/in - Vertrieb (Agrarwirtschaft)",
+      "Leiter/in - Vertrieb (Bau)",
+      "Leiter/in - Vertrieb (Bekleidungsindustrie)",
+      "Leiter/in - Vertrieb (Chemische Industrie)",
+      "Leiter/in - Vertrieb (Druck-/Medientechnik)",
+      "Leiter/in - Vertrieb (Elektrotechnik/Elektronik)",
+      "Leiter/in - Vertrieb (Energietechnik)",
+      "Leiter/in - Vertrieb (Fahrzeugtechnik)",
+      "Leiter/in - Vertrieb (Feinwerktechnik/Optik)",
+      "Leiter/in - Vertrieb (Gartenbau)",
+      "Leiter/in - Vertrieb (Gebäude-/Energie-/Versorgungstechnik)",
+      "Leiter/in - Vertrieb (Getränkeindustrie/Brauwesen)",
+      "Leiter/in - Vertrieb (Glas/Keramik)",
+      "Leiter/in - Vertrieb (Holzwirtschaft)",
+      "Leiter/in - Vertrieb (Kunststoffindustrie)",
+      "Leiter/in - Vertrieb (Lebensmittelindustrie/-handel)",
+      "Leiter/in - Vertrieb (Lederindustrie)",
+      "Leiter/in - Vertrieb (Maschinenbau)",
+      "Leiter/in - Vertrieb (Papier/Verpackung)",
+      "Leiter/in - Vertrieb (Pharmaindustrie)",
+      "Leiter/in - Vertrieb (Textilindustrie)",
+      "Leiter/in - Vertriebsinnendienst",
+      "Leiter/in Vetrieb (kaufmännisch)",
+      "Leiter/in Vetrieb (technisch)",
+      "Technische/r Vertriebsleiter/in",
+      "Vertriebsdirektor/in",
+      "Vertriebs-Geschäftsführer/in",
+      "Vertriebsleiter/in"
+    ],
+    "entgelt": "n/a",
+    "entgeltQ25": 5485,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "73134",
+    "name": "Rechtsanwälte/-anwältinnen - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Fachanwalt/-anwältin",
+      "Fachanwalt/-anwältin - Agrarrecht",
+      "Fachanwalt/-anwältin - Arbeitsrecht",
+      "Fachanwalt/-anwältin - Bank- und Kapitalmarktrecht",
+      "Fachanwalt/-anwältin - Bankrecht",
+      "Fachanwalt/-anwältin - Bau- und Architektenrecht",
+      "Fachanwalt/-anwältin - Erbrecht",
+      "Fachanwalt/-anwältin - Familienrecht",
+      "Fachanwalt/-anwältin - gewerblicher Rechtsschutz",
+      "Fachanwalt/-anwältin - Handels- und Gesellschaftsrecht",
+      "Fachanwalt/-anwältin - Informationstechnologierecht",
+      "Fachanwalt/-anwältin - Insolvenz- und Sanierungsrecht",
+      "Fachanwalt/-anwältin - internationales Wirtschaftsrecht",
+      "Fachanwalt/-anwältin - Kapitalmarktrecht",
+      "Fachanwalt/-anwältin - Medienrecht",
+      "Fachanwalt/-anwältin - Medizinrecht",
+      "Fachanwalt/-anwältin - Miet-/Wohnungseigentumsrecht",
+      "Fachanwalt/-anwältin - Mietrecht",
+      "Fachanwalt/-anwältin - Migrationsrecht",
+      "Fachanwalt/-anwältin - Sozialrecht",
+      "Fachanwalt/-anwältin - Sportrecht",
+      "Fachanwalt/-anwältin - Steuerrecht",
+      "Fachanwalt/-anwältin - Strafrecht",
+      "Fachanwalt/-anwältin - Transport- und Speditionsrecht",
+      "Fachanwalt/-anwältin - Urheber- und Medienrecht",
+      "Fachanwalt/-anwältin - Urheberrecht",
+      "Fachanwalt/-anwältin - Vereinsrecht",
+      "Fachanwalt/-anwältin - Vergaberecht",
+      "Fachanwalt/-anwältin - Verkehrsrecht",
+      "Fachanwalt/-anwältin - Versicherungsrecht",
+      "Fachanwalt/-anwältin - Verwaltungsrecht",
+      "Fachanwalt/-anwältin - Wohnungseigentumsrecht",
+      "Mitarbeiter/in - Rechtsabteilung/Rechtsanwalt",
+      "Offizialverteidiger/in",
+      "Patentanwalt/-anwältin",
+      "Pflichtverteidiger/in",
+      "Rechtsanwalt/Rechtsanwältin",
+      "Strafverteidiger/in",
+      "Syndikus-Anwalt/-Anwältin",
+      "Verteidiger/in (Strafsachen)"
+    ],
+    "entgelt": "n/a",
+    "entgeltQ25": 5364,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "51533",
+    "name": "Berufe in der Überwachung und Steuerung des Luftverkehrsbetriebs - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Fluglotse/Fluglotsin",
+      "Flugplankoordinator/in",
+      "Flugverkehrsleiter/in",
+      "Sachbearbeiter/in - Luftaufsicht",
+      "Verkehrsüberwacher/in (Flugsicherung)"
+    ],
+    "entgelt": "n/a",
+    "entgeltQ25": 5216,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "71104",
+    "name": "Geschäftsführer/innen und Vorstände - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Country Manager/in",
+      "Geschäftsführer/in",
+      "Kaufmännische/r Direktor/in",
+      "Kaufmännische/r Geschäftsführer/in",
+      "Technische/r Geschäftsführer/in",
+      "Vorstand/Vorständin"
+    ],
+    "entgelt": "n/a",
+    "entgeltQ25": 5042,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "51543",
+    "name": "Berufe in der Überwachung und Steuerung des Schiffsverkehrsbetriebs - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Hafenlotse/-lotsin",
+      "Hafenmeister/in",
+      "Kanallotse/-lotsin",
+      "Lotse/Lotsin",
+      "Lotsenkapitän/in",
+      "Revierlotse/-lotsin",
+      "Schiffslotse/-lotsin",
+      "Seelotse/-lotsin"
+    ],
+    "entgelt": "n/a",
+    "entgeltQ25": 4657,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "72304",
+    "name": "Berufe in der Steuerberatung - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Betriebswirt/in (Hochschule) - Steuern und Prüfungswesen",
+      "Dipl.-Betriebswirt/in (FH) - Steuern und Prüfungswesen",
+      "Leiter/in - Steuerwesen/Steuerkanzlei",
+      "Steuerberater/in",
+      "Steuerbevollmächtigte/r",
+      "Steuerreferent/in",
+      "Tax-Manager/in"
+    ],
+    "entgelt": 7033,
+    "entgeltQ25": 5701,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "73124",
+    "name": "Notare/Notarinnen - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Amtsnotar/in",
+      "Anwaltsnotar/in",
+      "Bezirksnotar/in",
+      "Notar/in",
+      "Notariatsvertreter/in",
+      "Notarvertreter/in",
+      "Nur-Notar/in",
+      "Öffentliche/r Notar/in",
+      "Richternotar/in"
+    ],
+    "entgelt": 7026,
+    "entgeltQ25": 5005,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "81414",
+    "name": "Fachärzte/-ärztinnen in der Kinder- und Jugendmedizin - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Assistenzarzt/-ärztin (Uni) - Kinder-/Jugendmedizin",
+      "Facharzt/-ärztin - Kinder- und Jugendmedizin",
+      "Facharzt/-ärztin - Kinderheilkunde",
+      "Facharzt/-ärztin - Pädiatrie",
+      "Kinderarzt/-ärztin",
+      "Pädiater/in"
+    ],
+    "entgelt": 7004,
+    "entgeltQ25": 5964,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "41393",
+    "name": "Aufsichtskräfte - Chemie",
+    "berufe": [
+      "Chemiemeister/in",
+      "Gruppenleiter/in (Chemielabor)",
+      "Industriemeister/in - Chemie",
+      "Industriemeister/in - Pharmazie",
+      "Labormeister/in",
+      "Meister/in - Anorganische Schwerchemie",
+      "Meister/in - Brenn-, Treib- und Schmierstoffe",
+      "Meister/in - chemische Industrie",
+      "Meister/in - Chemische Produktion",
+      "Meister/in - Elektrochemie",
+      "Meister/in - Fotochemie",
+      "Meister/in - Kunststoffchemie",
+      "Meister/in - Organische Grundchemie",
+      "Meister/in - Organisch-technische Chemie",
+      "Meister/in - Pharmaindustrie",
+      "Meister/in - Photochemie",
+      "Meister/in - Technische Gase",
+      "Meister/in - Thermochemie",
+      "Pharmameister/in",
+      "Schichtführer/in (Chemiebetrieb)"
+    ],
+    "entgelt": 6962,
+    "entgeltQ25": 5908,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "27183",
+    "name": "Berufe in der technischen Forschung und Entwicklung (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Beamt(er/in) - Bundeswehrverwaltung (geh. techn. Dienst)",
+      "Beamt(er/in) - Wehrverwaltung (geh. techn. Dienst)",
+      "Wehrtechniker/in",
+      "Wehrverwaltungsbeamt(er/in) (geh. techn. Dienst)"
+    ],
+    "entgelt": 6914,
+    "entgeltQ25": 5799,
     "entgeltQ75": "n/a"
   },
   {
@@ -785,55 +1018,6 @@
     ],
     "entgelt": 6853,
     "entgeltQ25": 5496,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "61194",
-    "name": "Führungskräfte - Einkauf und Vertrieb",
-    "berufe": [
-      "Area Sales Manager/in",
-      "Außendienst-Gebietsmanager/in",
-      "Bezirksleiter/in",
-      "Einkaufsleiter/in",
-      "Exportleiter/in",
-      "Gebietsverkaufsleiter/in",
-      "Kundendienstleiter/in (Versicherung)",
-      "Leiter/in - Beschaffungswesen",
-      "Leiter/in - Einkauf",
-      "Leiter/in - Export",
-      "Leiter/in - Kundendienst (kaufmännisch)",
-      "Leiter/in - Vertrieb",
-      "Leiter/in - Vertrieb (Agrarwirtschaft)",
-      "Leiter/in - Vertrieb (Bau)",
-      "Leiter/in - Vertrieb (Bekleidungsindustrie)",
-      "Leiter/in - Vertrieb (Chemische Industrie)",
-      "Leiter/in - Vertrieb (Druck-/Medientechnik)",
-      "Leiter/in - Vertrieb (Elektrotechnik/Elektronik)",
-      "Leiter/in - Vertrieb (Energietechnik)",
-      "Leiter/in - Vertrieb (Fahrzeugtechnik)",
-      "Leiter/in - Vertrieb (Feinwerktechnik/Optik)",
-      "Leiter/in - Vertrieb (Gartenbau)",
-      "Leiter/in - Vertrieb (Gebäude-/Energie-/Versorgungstechnik)",
-      "Leiter/in - Vertrieb (Getränkeindustrie/Brauwesen)",
-      "Leiter/in - Vertrieb (Glas/Keramik)",
-      "Leiter/in - Vertrieb (Holzwirtschaft)",
-      "Leiter/in - Vertrieb (Kunststoffindustrie)",
-      "Leiter/in - Vertrieb (Lebensmittelindustrie/-handel)",
-      "Leiter/in - Vertrieb (Lederindustrie)",
-      "Leiter/in - Vertrieb (Maschinenbau)",
-      "Leiter/in - Vertrieb (Papier/Verpackung)",
-      "Leiter/in - Vertrieb (Pharmaindustrie)",
-      "Leiter/in - Vertrieb (Textilindustrie)",
-      "Leiter/in - Vertriebsinnendienst",
-      "Leiter/in Vetrieb (kaufmännisch)",
-      "Leiter/in Vetrieb (technisch)",
-      "Technische/r Vertriebsleiter/in",
-      "Vertriebsdirektor/in",
-      "Vertriebs-Geschäftsführer/in",
-      "Vertriebsleiter/in"
-    ],
-    "entgelt": "n/a",
-    "entgeltQ25": 5485,
     "entgeltQ75": "n/a"
   },
   {
@@ -924,6 +1108,51 @@
     ],
     "entgelt": 6797,
     "entgeltQ25": 5253,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "72124",
+    "name": "Anlageberater/innen und sonstige Finanzdienstleistungsberufe - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "ABS-Spezialist/in (Fondsmanager/in)",
+      "Aktienfondsmanager/in",
+      "Anlageberater/in",
+      "Asset-Manager/in",
+      "Bankbetriebswirt/in (Hochschule)",
+      "Betriebswirt/in (Hochschule) - Bank und Finanzdienstl.",
+      "Conduit Manager/Managerin",
+      "Credit Portfolio Manager/in",
+      "Dipl.-Betriebswirt/in (FH) - Bank",
+      "Financial Consultant",
+      "Financial Planner (FH)",
+      "Finanzplaner/in",
+      "Finanzportfolioverwalter/in",
+      "Fondsbeauftragte/r",
+      "Fondsberater/in",
+      "Fondsbetreuer/in",
+      "Fondsmanager/in",
+      "Fondsverwalter/in",
+      "Geldanlageberater/in",
+      "Geldanlagenberater/in",
+      "Investmentberater/in",
+      "Investmentbetreuer/in",
+      "Kapitalanlageberater/in",
+      "Kursberater/in",
+      "Portfoliomanager/in",
+      "Portfolioverwalter/in",
+      "Rentenberater/in",
+      "Senior Asset Manager/in",
+      "Senior Credit Portfolio Manager/in",
+      "Vermögensanlageberater/in",
+      "Vermögensanlagebetreuer/in",
+      "Vermögensberater/in",
+      "Vermögensbetreuer/in",
+      "Vermögensmanager/in",
+      "Vermögensverwalter/in",
+      "Wertpapierberater/in"
+    ],
+    "entgelt": 6790,
+    "entgeltQ25": 5295,
     "entgeltQ75": "n/a"
   },
   {
@@ -1163,6 +1392,18 @@
     "entgeltQ75": "n/a"
   },
   {
+    "kldb": "71224",
+    "name": "Leitende Bedienstete von Interessenorganisationen - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Gewerkschaftssekretär/in",
+      "Jugendsekretär/in",
+      "Vereins-/Verbandsgeschäftsführer/in"
+    ],
+    "entgelt": 6719,
+    "entgeltQ25": 5795,
+    "entgeltQ75": "n/a"
+  },
+  {
     "kldb": "26304",
     "name": "Berufe in der Elektrotechnik (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
     "berufe": [
@@ -1204,145 +1445,6 @@
     "entgeltQ75": "n/a"
   },
   {
-    "kldb": "71224",
-    "name": "Leitende Bedienstete von Interessenorganisationen - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Gewerkschaftssekretär/in",
-      "Jugendsekretär/in",
-      "Vereins-/Verbandsgeschäftsführer/in"
-    ],
-    "entgelt": 6719,
-    "entgeltQ25": 5795,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "41343",
-    "name": "Steuerer/Steuerinnen von Erdöl- und Erdgasraffinationsanlagen - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Steuer(er/in) - Erdöl- und Erdgasraffinationsanlagen",
-      "Steuer(er/in) - Gasanlagen"
-    ],
-    "entgelt": 6649,
-    "entgeltQ25": 5727,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "71394",
-    "name": "Führungskräfte - Unternehmensorganisation und -strategie",
-    "berufe": [
-      "Bereichsleiter/in",
-      "Betriebsleiter/in - kaufmännisch",
-      "Business-Unit Leiter/in",
-      "Chief Operating Officer",
-      "Chief-Product-Officer",
-      "Chief-Technology-Officer",
-      "Commercialmanger/in",
-      "Innendienstleiter/in",
-      "Innenleiter/in (Bank)",
-      "Kaufm. Leiter/in/Teamleiter/in",
-      "Leiter/in - Digitalisierung",
-      "Leiter/in - Projekt-/Programmmanagement",
-      "Leiter/in - Unternehmensentwicklung",
-      "Niederlassungsleiter/in",
-      "Organisationsleiter/in",
-      "Verwaltungsleiter/in (Wirtschaft)"
-    ],
-    "entgelt": "n/a",
-    "entgeltQ25": 5698,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "72194",
-    "name": "Führungskräfte - Versicherungs- und Finanzdienstleistungen",
-    "berufe": [
-      "Abteilungsleiter/in (Versicherung)",
-      "Agenturleiter/in - Versicherung",
-      "Außendienstleiter/in (Versicherung)",
-      "Bankbereichsleiter/in",
-      "Bankbevollmächtigte/r",
-      "Bankdirektor/in",
-      "Bankfilialleiter/in",
-      "Bankpräsident/in",
-      "Bankprokurist/in",
-      "Bankvorstand",
-      "Bereichsleiter/in (Versicherung)",
-      "Bezirksdirektor/in (Bausparkasse)",
-      "Bezirksdirektor/in (Krankenversicherung)",
-      "Bezirksleiter/in (Versicherung)",
-      "Chief-Investment-Officer",
-      "Direktor/in - Sparkassendienst",
-      "Filialleiter/in - Bank",
-      "Finanzierungsbüroinhaber/in",
-      "Gebietsdirektor/in (Bausparkasse)",
-      "Geschäftsstellenleiter/in (Bank)",
-      "Geschäftsstellenleiter/in (Versicherung)",
-      "Inspektoratsleiter/in (Versicherung)",
-      "Krankenversicherungsdirektor/in",
-      "Leitende/r Direktor/in - Sparkassendienst",
-      "Leiter/in - Asset Management",
-      "Leiter/in - Markt (Banken)",
-      "Leiter/in - Marktfolge (Banken)",
-      "Leiter/in - Risikomanagement",
-      "Organisationsleiter/in (Bausparkasse)",
-      "Regionalbereichsleiter/in (Versicherung)",
-      "Regionaldirektor/in (Bausparkasse)",
-      "Sachgebietsleiter/in (Versicherung)",
-      "Sparkassenabteilungsdirektor/in",
-      "Sparkassendirektor/in",
-      "Sparkassenleiter/in",
-      "Sparkassenzweigstellenleiter/in",
-      "Versicherungsdirektor/in"
-    ],
-    "entgelt": "n/a",
-    "entgeltQ25": 5574,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "72124",
-    "name": "Anlageberater/innen und sonstige Finanzdienstleistungsberufe - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "ABS-Spezialist/in (Fondsmanager/in)",
-      "Aktienfondsmanager/in",
-      "Anlageberater/in",
-      "Asset-Manager/in",
-      "Bankbetriebswirt/in (Hochschule)",
-      "Betriebswirt/in (Hochschule) - Bank und Finanzdienstl.",
-      "Conduit Manager/Managerin",
-      "Credit Portfolio Manager/in",
-      "Dipl.-Betriebswirt/in (FH) - Bank",
-      "Financial Consultant",
-      "Financial Planner (FH)",
-      "Finanzplaner/in",
-      "Finanzportfolioverwalter/in",
-      "Fondsbeauftragte/r",
-      "Fondsberater/in",
-      "Fondsbetreuer/in",
-      "Fondsmanager/in",
-      "Fondsverwalter/in",
-      "Geldanlageberater/in",
-      "Geldanlagenberater/in",
-      "Investmentberater/in",
-      "Investmentbetreuer/in",
-      "Kapitalanlageberater/in",
-      "Kursberater/in",
-      "Portfoliomanager/in",
-      "Portfolioverwalter/in",
-      "Rentenberater/in",
-      "Senior Asset Manager/in",
-      "Senior Credit Portfolio Manager/in",
-      "Vermögensanlageberater/in",
-      "Vermögensanlagebetreuer/in",
-      "Vermögensberater/in",
-      "Vermögensbetreuer/in",
-      "Vermögensmanager/in",
-      "Vermögensverwalter/in",
-      "Wertpapierberater/in"
-    ],
-    "entgelt": 6790,
-    "entgeltQ25": 5295,
-    "entgeltQ75": "n/a"
-  },
-  {
     "kldb": "73294",
     "name": "Führungskräfte - Verwaltung",
     "berufe": [
@@ -1380,52 +1482,73 @@
     "entgeltQ75": "n/a"
   },
   {
-    "kldb": "73134",
-    "name": "Rechtsanwälte/-anwältinnen - hoch komplexe Tätigkeiten",
+    "kldb": "41343",
+    "name": "Steuerer/Steuerinnen von Erdöl- und Erdgasraffinationsanlagen - komplexe Spezialistentätigkeiten",
     "berufe": [
-      "Fachanwalt/-anwältin",
-      "Fachanwalt/-anwältin - Agrarrecht",
-      "Fachanwalt/-anwältin - Arbeitsrecht",
-      "Fachanwalt/-anwältin - Bank- und Kapitalmarktrecht",
-      "Fachanwalt/-anwältin - Bankrecht",
-      "Fachanwalt/-anwältin - Bau- und Architektenrecht",
-      "Fachanwalt/-anwältin - Erbrecht",
-      "Fachanwalt/-anwältin - Familienrecht",
-      "Fachanwalt/-anwältin - gewerblicher Rechtsschutz",
-      "Fachanwalt/-anwältin - Handels- und Gesellschaftsrecht",
-      "Fachanwalt/-anwältin - Informationstechnologierecht",
-      "Fachanwalt/-anwältin - Insolvenz- und Sanierungsrecht",
-      "Fachanwalt/-anwältin - internationales Wirtschaftsrecht",
-      "Fachanwalt/-anwältin - Kapitalmarktrecht",
-      "Fachanwalt/-anwältin - Medienrecht",
-      "Fachanwalt/-anwältin - Medizinrecht",
-      "Fachanwalt/-anwältin - Miet-/Wohnungseigentumsrecht",
-      "Fachanwalt/-anwältin - Mietrecht",
-      "Fachanwalt/-anwältin - Migrationsrecht",
-      "Fachanwalt/-anwältin - Sozialrecht",
-      "Fachanwalt/-anwältin - Sportrecht",
-      "Fachanwalt/-anwältin - Steuerrecht",
-      "Fachanwalt/-anwältin - Strafrecht",
-      "Fachanwalt/-anwältin - Transport- und Speditionsrecht",
-      "Fachanwalt/-anwältin - Urheber- und Medienrecht",
-      "Fachanwalt/-anwältin - Urheberrecht",
-      "Fachanwalt/-anwältin - Vereinsrecht",
-      "Fachanwalt/-anwältin - Vergaberecht",
-      "Fachanwalt/-anwältin - Verkehrsrecht",
-      "Fachanwalt/-anwältin - Versicherungsrecht",
-      "Fachanwalt/-anwältin - Verwaltungsrecht",
-      "Fachanwalt/-anwältin - Wohnungseigentumsrecht",
-      "Mitarbeiter/in - Rechtsabteilung/Rechtsanwalt",
-      "Offizialverteidiger/in",
-      "Patentanwalt/-anwältin",
-      "Pflichtverteidiger/in",
-      "Rechtsanwalt/Rechtsanwältin",
-      "Strafverteidiger/in",
-      "Syndikus-Anwalt/-Anwältin",
-      "Verteidiger/in (Strafsachen)"
+      "Steuer(er/in) - Erdöl- und Erdgasraffinationsanlagen",
+      "Steuer(er/in) - Gasanlagen"
     ],
-    "entgelt": "n/a",
-    "entgeltQ25": 5364,
+    "entgelt": 6649,
+    "entgeltQ25": 5727,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "41294",
+    "name": "Führungskräfte - Biologie",
+    "berufe": [
+      "Direktor/in - Botanische Gärten",
+      "Laborleiter/in",
+      "Laborleiter/in - Biologie",
+      "Laborleiter/in - Milchwirtschaft"
+    ],
+    "entgelt": 6639,
+    "entgeltQ25": 5014,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "52414",
+    "name": "Nautische Schiffsoffiziere/-offizierinnen und Kapitäne/Kapitäninnen - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Dipl.-Ing. (Uni) - Schiffsführung",
+      "Dipl.-Ing. (Uni) - Schiffsführung Handelsschifffahrt",
+      "Dipl.-Ing. (Uni) - Schiffsführung Hochseefischerei",
+      "Dipl.-Nautiker/in",
+      "Kapitän/in",
+      "Kapitän/in - Auf Großer Fahrt",
+      "Kapitän/in - Auf Schiffen aller Größen",
+      "Kapitän/in - Große Hochseefischerei",
+      "Kapitän/in (Fachschule)",
+      "Kapitän/in (FH)",
+      "Nautiker/in (Hochschule)",
+      "Schiffsbetriebsoffizier (FH) - Nautik/Technik",
+      "Schiffsbetriebsoffizier/in",
+      "Schiffsbetriebsoffizier/in - Nautik/Technik",
+      "Schiffskapitän/in - Seeschifffahrt"
+    ],
+    "entgelt": 6636,
+    "entgeltQ25": 5420,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "71384",
+    "name": "Berufe in der Unternehmensorganisation und -strategie (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Betriebswirt/in (Hochschule) - Betriebswirtschaft und Recht",
+      "Chief-Digital-Officer",
+      "Claim-Manager/in",
+      "Compliance-Manager/in",
+      "Dipl.-Betriebswirt/in - Betriebswirtschaft und Recht",
+      "Energiemanager/in",
+      "ESG-Manager/in",
+      "Genehmigungsplaner/in",
+      "Liquidator/in",
+      "Nachhaltigkeitsmanager/in",
+      "Pharmaziebetriebswirt/in",
+      "Tender-Manager/in",
+      "Vergabemanager/in"
+    ],
+    "entgelt": 6628,
+    "entgeltQ25": 5003,
     "entgeltQ75": "n/a"
   },
   {
@@ -1497,6 +1620,25 @@
     "entgeltQ75": "n/a"
   },
   {
+    "kldb": "43103",
+    "name": "Berufe in der Informatik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Bachelor Professional - IT",
+      "Datenverarbeitungsfachmann/-frau",
+      "Dipl.-Informatiker/in (BA)",
+      "Dipl.-Informatiker/in (BA) - Angewandte Informatik",
+      "Dipl.-Ing. (BA) - Informatik",
+      "Entwickler/in - Datenvisualisierung",
+      "Informatiker/in (staatl.gepr.)",
+      "Informatiker/in (staatl.gepr.) - Computer/Kommunik.technik",
+      "Informatiker/in (Weiterbildung)",
+      "Ingenieur/in (FS) - Informationsverarbeitung"
+    ],
+    "entgelt": 6611,
+    "entgeltQ25": 5314,
+    "entgeltQ75": "n/a"
+  },
+  {
     "kldb": "26384",
     "name": "Berufe in der Elektrotechnik (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten",
     "berufe": [
@@ -1513,6 +1655,24 @@
     ],
     "entgelt": 6608,
     "entgeltQ25": 5435,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "72214",
+    "name": "Berufe in der Buchhaltung - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Accounting Manager/in",
+      "Betriebswirt/in (Hochschule) - Accounting und Controlling",
+      "Betriebswirt/in (Hochschule) - Rechnungswesen",
+      "Betriebswirt/in (Hochschule) - Rechnungswesen u. Controlling",
+      "Cashmanager/in",
+      "Finance Manager/in",
+      "Rechnungskontrolleur/in",
+      "Rechnungsprüfer/in",
+      "Treasurer"
+    ],
+    "entgelt": 6598,
+    "entgeltQ25": 4821,
     "entgeltQ75": "n/a"
   },
   {
@@ -1552,261 +1712,6 @@
     ],
     "entgelt": 6597,
     "entgeltQ25": 5268,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "26314",
-    "name": "Berufe in der Informations- und Telekommunikationstechnik - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Beamt(er/in) - Fernmeldedienst (höh. techn. Dienst)",
-      "Beamt(er/in) - Post-und Fernmeldedienst (höh. techn. Dienst",
-      "Dipl.-Ing. - Elektronik (Kommunikationselektronik)",
-      "Dipl.-Ing. - Elektrotechnik (Nachrichtentechnik)",
-      "Dipl.-Ing. - Hochfrequenztechnik (drahtlose Nachricht.)",
-      "Dipl.-Ing. - Informationstechnik",
-      "Dipl.-Ing. - Medienbetriebstechnik",
-      "Dipl.-Ing. (FH) - Fernsehtechnik",
-      "Dipl.-Ing. (FH) - Medientechnik/Multimedia",
-      "Dipl.-Ing. (Uni) - Elektrotechnik und Informationstechnik",
-      "Dipl.-Ing. (Uni) - Informationselektronik",
-      "Dipl.-Ing. (Uni) - Medientechnik/-technologie",
-      "Dipl.-Ing. (Uni) - Schwachstromtechnik (Elektroakustik)",
-      "Dipl.-Ing. (Uni) - Schwachstromtechnik (Fernmeldetechnik)",
-      "Dipl.-Ing. (Uni) - Schwachstromtechnik (Hochfrequenztechn.)",
-      "Elektroingenieur/in - Informationstechnik",
-      "Elektroingenieur/in - Kommunikationstechnik",
-      "Elektroingenieur/in - Nachrichtentechnik",
-      "Euromaster/in - Telekommunikation (Engineering/Management)",
-      "Fernmeldebeamter/-beamtin (höh. techn. Dienst)",
-      "Fernsehingenieur/in",
-      "Funkingenieur/in",
-      "Informationstechnikingenieur/-ingenieurin - alle Fachricht.",
-      "Ingenieur/in - Elektrotechnik (Informationstechnik)",
-      "Ingenieur/in - Elektrotechnik (Kommunikationstechnik)",
-      "Ingenieur/in - Elektrotechnik (Nachrichtentechnik)",
-      "Ingenieur/in - Fernsehtechnik",
-      "Ingenieur/in - Informations-, Kommunikationstechnik",
-      "Ingenieur/in - Informationstechnik",
-      "Ingenieur/in - Medientechnik/Multimedia",
-      "Ingenieur/in - Nachrichtentechnik",
-      "IT-Geräteentwickler/in",
-      "Kundendienstingenieur/in - IuK-Technik",
-      "Nachrichtentechnikingenieur/in"
-    ],
-    "entgelt": 6588,
-    "entgeltQ25": 5262,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "91343",
-    "name": "Berufe in der Markt- und Meinungsforschung - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Fachwirt/in - Marktforschung"
-    ],
-    "entgelt": 6576,
-    "entgeltQ25": 5337,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "91404",
-    "name": "Berufe in Wirtschaftswissenschaften (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Beratende/r Volkswirt/in",
-      "Dipl.-Ökonom/in (Uni)",
-      "Dipl.-Volkswirt/in (Uni)",
-      "Dipl.-Wirtschaftswissenschaftler/in",
-      "Ökonom/in",
-      "Volkswirt/in",
-      "Wirtschaftswissenschaftler/in"
-    ],
-    "entgelt": 6521,
-    "entgeltQ25": 5089,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "84294",
-    "name": "Führungskräfte - Berufsschulen, betriebliche Ausbildung und Betriebspädagogik",
-    "berufe": [
-      "Altenpflegeschulleiter/in",
-      "Ausbildungsleiter/in - Flugsicherung",
-      "Ausbildungsleiter/in (Fleischwaren-/Lebensmittelindustrie)",
-      "Ausbildungsleiter/in (g.D. - Finanzämter)",
-      "Ausbildungsleiter/in (Holzwirtschaft)",
-      "Ausbildungsleiter/in (Konservenindustrie)",
-      "Berufsschuldirektor/in",
-      "Berufsschulleiter/in",
-      "Direktor/in - Heilpraktikerausbildungsstätten",
-      "Fachschulleiter/in",
-      "Leiter/in - berufliche Fortbildungseinrichtung",
-      "Leiter/in - Eurythmieschule",
-      "Leiter/in - Fußpflegeschule",
-      "Leiter/in - Haus- und Familienpflegeschule",
-      "Leiter/in - Pflegeschule",
-      "Schulleiter/in - berufliche Schulen",
-      "Seefahrtschuldirektor/in"
-    ],
-    "entgelt": 6490,
-    "entgeltQ25": 5072,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "84194",
-    "name": "Führungskräfte - Allgemeinbildende Schulen",
-    "berufe": [
-      "Hauptschuldirektor/in",
-      "Konrektor/in (an allgemeinbildenden Schulen)",
-      "Privatschuldirektor/in (Gymnasium)",
-      "Realschulrektor/in",
-      "Schulleiter/in - allgemeinbildende Schulen",
-      "Schulleiter/in - Gymnasien",
-      "Schulleiter/in - Waldorfschule",
-      "Sonderschulrektor/in",
-      "Stellvertretende/r Schulleiter/in"
-    ],
-    "entgelt": 6461,
-    "entgeltQ25": 5733,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "92204",
-    "name": "Berufe in der Öffentlichkeitsarbeit - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Politikberater/in",
-      "Pressesprecher/in",
-      "Public-Affairs-Manager/in",
-      "Vorstandsreferent/in (Pressesprecher/in)"
-    ],
-    "entgelt": 6353,
-    "entgeltQ25": 5121,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "71104",
-    "name": "Geschäftsführer/innen und Vorstände - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Country Manager/in",
-      "Geschäftsführer/in",
-      "Kaufmännische/r Direktor/in",
-      "Kaufmännische/r Geschäftsführer/in",
-      "Technische/r Geschäftsführer/in",
-      "Vorstand/Vorständin"
-    ],
-    "entgelt": "n/a",
-    "entgeltQ25": 5042,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "73124",
-    "name": "Notare/Notarinnen - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Amtsnotar/in",
-      "Anwaltsnotar/in",
-      "Bezirksnotar/in",
-      "Notar/in",
-      "Notariatsvertreter/in",
-      "Notarvertreter/in",
-      "Nur-Notar/in",
-      "Öffentliche/r Notar/in",
-      "Richternotar/in"
-    ],
-    "entgelt": 7026,
-    "entgeltQ25": 5005,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "41294",
-    "name": "Führungskräfte - Biologie",
-    "berufe": [
-      "Direktor/in - Botanische Gärten",
-      "Laborleiter/in",
-      "Laborleiter/in - Biologie",
-      "Laborleiter/in - Milchwirtschaft"
-    ],
-    "entgelt": 6639,
-    "entgeltQ25": 5014,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "52414",
-    "name": "Nautische Schiffsoffiziere/-offizierinnen und Kapitäne/Kapitäninnen - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Dipl.-Ing. (Uni) - Schiffsführung",
-      "Dipl.-Ing. (Uni) - Schiffsführung Handelsschifffahrt",
-      "Dipl.-Ing. (Uni) - Schiffsführung Hochseefischerei",
-      "Dipl.-Nautiker/in",
-      "Kapitän/in",
-      "Kapitän/in - Auf Großer Fahrt",
-      "Kapitän/in - Auf Schiffen aller Größen",
-      "Kapitän/in - Große Hochseefischerei",
-      "Kapitän/in (Fachschule)",
-      "Kapitän/in (FH)",
-      "Nautiker/in (Hochschule)",
-      "Schiffsbetriebsoffizier (FH) - Nautik/Technik",
-      "Schiffsbetriebsoffizier/in",
-      "Schiffsbetriebsoffizier/in - Nautik/Technik",
-      "Schiffskapitän/in - Seeschifffahrt"
-    ],
-    "entgelt": 6636,
-    "entgeltQ25": 5420,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "71384",
-    "name": "Berufe in der Unternehmensorganisation und -strategie (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Betriebswirt/in (Hochschule) - Betriebswirtschaft und Recht",
-      "Chief-Digital-Officer",
-      "Claim-Manager/in",
-      "Compliance-Manager/in",
-      "Dipl.-Betriebswirt/in - Betriebswirtschaft und Recht",
-      "Energiemanager/in",
-      "ESG-Manager/in",
-      "Genehmigungsplaner/in",
-      "Liquidator/in",
-      "Nachhaltigkeitsmanager/in",
-      "Pharmaziebetriebswirt/in",
-      "Tender-Manager/in",
-      "Vergabemanager/in"
-    ],
-    "entgelt": 6628,
-    "entgeltQ25": 5003,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "43103",
-    "name": "Berufe in der Informatik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Bachelor Professional - IT",
-      "Datenverarbeitungsfachmann/-frau",
-      "Dipl.-Informatiker/in (BA)",
-      "Dipl.-Informatiker/in (BA) - Angewandte Informatik",
-      "Dipl.-Ing. (BA) - Informatik",
-      "Entwickler/in - Datenvisualisierung",
-      "Informatiker/in (staatl.gepr.)",
-      "Informatiker/in (staatl.gepr.) - Computer/Kommunik.technik",
-      "Informatiker/in (Weiterbildung)",
-      "Ingenieur/in (FS) - Informationsverarbeitung"
-    ],
-    "entgelt": 6611,
-    "entgeltQ25": 5314,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "72214",
-    "name": "Berufe in der Buchhaltung - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Accounting Manager/in",
-      "Betriebswirt/in (Hochschule) - Accounting und Controlling",
-      "Betriebswirt/in (Hochschule) - Rechnungswesen",
-      "Betriebswirt/in (Hochschule) - Rechnungswesen u. Controlling",
-      "Cashmanager/in",
-      "Finance Manager/in",
-      "Rechnungskontrolleur/in",
-      "Rechnungsprüfer/in",
-      "Treasurer"
-    ],
-    "entgelt": 6598,
-    "entgeltQ25": 4821,
     "entgeltQ75": "n/a"
   },
   {
@@ -1853,6 +1758,49 @@
     "entgeltQ75": "n/a"
   },
   {
+    "kldb": "26314",
+    "name": "Berufe in der Informations- und Telekommunikationstechnik - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Beamt(er/in) - Fernmeldedienst (höh. techn. Dienst)",
+      "Beamt(er/in) - Post-und Fernmeldedienst (höh. techn. Dienst",
+      "Dipl.-Ing. - Elektronik (Kommunikationselektronik)",
+      "Dipl.-Ing. - Elektrotechnik (Nachrichtentechnik)",
+      "Dipl.-Ing. - Hochfrequenztechnik (drahtlose Nachricht.)",
+      "Dipl.-Ing. - Informationstechnik",
+      "Dipl.-Ing. - Medienbetriebstechnik",
+      "Dipl.-Ing. (FH) - Fernsehtechnik",
+      "Dipl.-Ing. (FH) - Medientechnik/Multimedia",
+      "Dipl.-Ing. (Uni) - Elektrotechnik und Informationstechnik",
+      "Dipl.-Ing. (Uni) - Informationselektronik",
+      "Dipl.-Ing. (Uni) - Medientechnik/-technologie",
+      "Dipl.-Ing. (Uni) - Schwachstromtechnik (Elektroakustik)",
+      "Dipl.-Ing. (Uni) - Schwachstromtechnik (Fernmeldetechnik)",
+      "Dipl.-Ing. (Uni) - Schwachstromtechnik (Hochfrequenztechn.)",
+      "Elektroingenieur/in - Informationstechnik",
+      "Elektroingenieur/in - Kommunikationstechnik",
+      "Elektroingenieur/in - Nachrichtentechnik",
+      "Euromaster/in - Telekommunikation (Engineering/Management)",
+      "Fernmeldebeamter/-beamtin (höh. techn. Dienst)",
+      "Fernsehingenieur/in",
+      "Funkingenieur/in",
+      "Informationstechnikingenieur/-ingenieurin - alle Fachricht.",
+      "Ingenieur/in - Elektrotechnik (Informationstechnik)",
+      "Ingenieur/in - Elektrotechnik (Kommunikationstechnik)",
+      "Ingenieur/in - Elektrotechnik (Nachrichtentechnik)",
+      "Ingenieur/in - Fernsehtechnik",
+      "Ingenieur/in - Informations-, Kommunikationstechnik",
+      "Ingenieur/in - Informationstechnik",
+      "Ingenieur/in - Medientechnik/Multimedia",
+      "Ingenieur/in - Nachrichtentechnik",
+      "IT-Geräteentwickler/in",
+      "Kundendienstingenieur/in - IuK-Technik",
+      "Nachrichtentechnikingenieur/in"
+    ],
+    "entgelt": 6588,
+    "entgeltQ25": 5262,
+    "entgeltQ75": "n/a"
+  },
+  {
     "kldb": "27394",
     "name": "Führungskräfte - Technische Produktionsplanung und -steuerung",
     "berufe": [
@@ -1874,6 +1822,16 @@
     ],
     "entgelt": 6584,
     "entgeltQ25": 4869,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "91343",
+    "name": "Berufe in der Markt- und Meinungsforschung - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Fachwirt/in - Marktforschung"
+    ],
+    "entgelt": 6576,
+    "entgeltQ25": 5337,
     "entgeltQ75": "n/a"
   },
   {
@@ -1967,6 +1925,22 @@
     ],
     "entgelt": 6537,
     "entgeltQ25": 4958,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "91404",
+    "name": "Berufe in Wirtschaftswissenschaften (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Beratende/r Volkswirt/in",
+      "Dipl.-Ökonom/in (Uni)",
+      "Dipl.-Volkswirt/in (Uni)",
+      "Dipl.-Wirtschaftswissenschaftler/in",
+      "Ökonom/in",
+      "Volkswirt/in",
+      "Wirtschaftswissenschaftler/in"
+    ],
+    "entgelt": 6521,
+    "entgeltQ25": 5089,
     "entgeltQ75": "n/a"
   },
   {
@@ -2067,50 +2041,6 @@
     "entgeltQ75": 7043
   },
   {
-    "kldb": "26334",
-    "name": "Berufe in der Luftverkehrs-, Schiffs- und Fahrzeugelektronik - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Dipl.-Ing. (FH) - Elektronik (Kraftfahrzeugelektronik)",
-      "Dipl.-Ing. (Uni) - Schiffselektronik/Nachrichtendienst",
-      "Elektroingenieur/in - Fahrzeugelektronik",
-      "Ingenieur/in - Elektromobilität",
-      "Ingenieur/in - Elektrotechnik (Fahrzeugelektronik)",
-      "Ingenieur/in - Fahrzeugelektronik",
-      "Schiffselektroingenieur/in (Schiffselektronik/Nachrichtend.)"
-    ],
-    "entgelt": 6479,
-    "entgeltQ25": 5217,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "25134",
-    "name": "Technische Servicekräfte in Wartung und Instandhaltung - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Dipl.-Ing. (Ing.H) - Technologie der Instandsetzung",
-      "Inbetriebnahme-Ingenieur/in - Elektrotechnik",
-      "Serviceingenieur/in",
-      "Serviceingenieur/in - Automatisierungstechnik",
-      "Serviceingenieur/in - Elektrische Energietechnik"
-    ],
-    "entgelt": 6439,
-    "entgeltQ25": 5220,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "51533",
-    "name": "Berufe in der Überwachung und Steuerung des Luftverkehrsbetriebs - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Fluglotse/Fluglotsin",
-      "Flugplankoordinator/in",
-      "Flugverkehrsleiter/in",
-      "Sachbearbeiter/in - Luftaufsicht",
-      "Verkehrsüberwacher/in (Flugsicherung)"
-    ],
-    "entgelt": "n/a",
-    "entgeltQ25": 5216,
-    "entgeltQ75": "n/a"
-  },
-  {
     "kldb": "61294",
     "name": "Führungskräfte - Handel",
     "berufe": [
@@ -2118,6 +2048,32 @@
     ],
     "entgelt": 6492,
     "entgeltQ25": 4939,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "84294",
+    "name": "Führungskräfte - Berufsschulen, betriebliche Ausbildung und Betriebspädagogik",
+    "berufe": [
+      "Altenpflegeschulleiter/in",
+      "Ausbildungsleiter/in - Flugsicherung",
+      "Ausbildungsleiter/in (Fleischwaren-/Lebensmittelindustrie)",
+      "Ausbildungsleiter/in (g.D. - Finanzämter)",
+      "Ausbildungsleiter/in (Holzwirtschaft)",
+      "Ausbildungsleiter/in (Konservenindustrie)",
+      "Berufsschuldirektor/in",
+      "Berufsschulleiter/in",
+      "Direktor/in - Heilpraktikerausbildungsstätten",
+      "Fachschulleiter/in",
+      "Leiter/in - berufliche Fortbildungseinrichtung",
+      "Leiter/in - Eurythmieschule",
+      "Leiter/in - Fußpflegeschule",
+      "Leiter/in - Haus- und Familienpflegeschule",
+      "Leiter/in - Pflegeschule",
+      "Schulleiter/in - berufliche Schulen",
+      "Seefahrtschuldirektor/in"
+    ],
+    "entgelt": 6490,
+    "entgeltQ25": 5072,
     "entgeltQ75": "n/a"
   },
   {
@@ -2137,6 +2093,40 @@
     "entgeltQ75": "n/a"
   },
   {
+    "kldb": "26334",
+    "name": "Berufe in der Luftverkehrs-, Schiffs- und Fahrzeugelektronik - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Dipl.-Ing. (FH) - Elektronik (Kraftfahrzeugelektronik)",
+      "Dipl.-Ing. (Uni) - Schiffselektronik/Nachrichtendienst",
+      "Elektroingenieur/in - Fahrzeugelektronik",
+      "Ingenieur/in - Elektromobilität",
+      "Ingenieur/in - Elektrotechnik (Fahrzeugelektronik)",
+      "Ingenieur/in - Fahrzeugelektronik",
+      "Schiffselektroingenieur/in (Schiffselektronik/Nachrichtend.)"
+    ],
+    "entgelt": 6479,
+    "entgeltQ25": 5217,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "84194",
+    "name": "Führungskräfte - Allgemeinbildende Schulen",
+    "berufe": [
+      "Hauptschuldirektor/in",
+      "Konrektor/in (an allgemeinbildenden Schulen)",
+      "Privatschuldirektor/in (Gymnasium)",
+      "Realschulrektor/in",
+      "Schulleiter/in - allgemeinbildende Schulen",
+      "Schulleiter/in - Gymnasien",
+      "Schulleiter/in - Waldorfschule",
+      "Sonderschulrektor/in",
+      "Stellvertretende/r Schulleiter/in"
+    ],
+    "entgelt": 6461,
+    "entgeltQ25": 5733,
+    "entgeltQ75": "n/a"
+  },
+  {
     "kldb": "61214",
     "name": "Kaufleute im Groß- und Außenhandel - hoch komplexe Tätigkeiten",
     "berufe": [
@@ -2148,6 +2138,20 @@
     ],
     "entgelt": 6457,
     "entgeltQ25": 4826,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "25134",
+    "name": "Technische Servicekräfte in Wartung und Instandhaltung - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Dipl.-Ing. (Ing.H) - Technologie der Instandsetzung",
+      "Inbetriebnahme-Ingenieur/in - Elektrotechnik",
+      "Serviceingenieur/in",
+      "Serviceingenieur/in - Automatisierungstechnik",
+      "Serviceingenieur/in - Elektrische Energietechnik"
+    ],
+    "entgelt": 6439,
+    "entgeltQ25": 5220,
     "entgeltQ75": "n/a"
   },
   {
@@ -2308,6 +2312,19 @@
     "entgeltQ75": "n/a"
   },
   {
+    "kldb": "92204",
+    "name": "Berufe in der Öffentlichkeitsarbeit - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Politikberater/in",
+      "Pressesprecher/in",
+      "Public-Affairs-Manager/in",
+      "Vorstandsreferent/in (Pressesprecher/in)"
+    ],
+    "entgelt": 6353,
+    "entgeltQ25": 5121,
+    "entgeltQ75": "n/a"
+  },
+  {
     "kldb": "43384",
     "name": "Berufe in der IT-Netzwerktechnik, IT-Koordination, IT-Administration und IT-Organisation (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten",
     "berufe": [
@@ -2461,6 +2478,39 @@
     ],
     "entgelt": 6264,
     "entgeltQ25": 4502,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "53184",
+    "name": "Berufe in Objekt-, Personen-, Brandschutz, Arbeitssicherheit (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Fahrerlaubnisprüfer/in",
+      "Fahrprüfer/in",
+      "Ingenieur/in - Rettungswesen",
+      "Sicherheitsmanager/in"
+    ],
+    "entgelt": 6260,
+    "entgeltQ25": 4405,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "51694",
+    "name": "Führungskräfte - Verkehr und Logistik (kaufmännischer Bereich)",
+    "berufe": [
+      "Fuhrunternehmer/in",
+      "Leiter/in - Logistik",
+      "Leiter/in - Materialwirtschaft",
+      "Leiter/in - Supply-Chain-Management",
+      "Logistikleiter/in",
+      "Materialwirtschaftsleiter/in",
+      "Omnibusverkehrsunternehmer/in",
+      "Reeder/in",
+      "Rollfuhrunternehmer/in",
+      "Schiffsreeder/in",
+      "Taxiunternehmer/in"
+    ],
+    "entgelt": 6243,
+    "entgeltQ25": 4440,
     "entgeltQ75": "n/a"
   },
   {
@@ -2686,6 +2736,40 @@
     "entgeltQ75": "n/a"
   },
   {
+    "kldb": "43383",
+    "name": "Berufe in der IT-Netzwerktechnik, IT-Koordination, IT-Administration und IT-Organisation (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Arbeitsvorbereiter/in (Rechenzentrum)",
+      "Bachelor Professional - IT (Informationssicherheit)",
+      "Berufsspezialist/in - Informationssicherheit",
+      "Informationssicherheitsbeauftragte/r",
+      "IT-Sicherheitstechniker/in",
+      "IT-Spezialist/in - IT-Sicherheitstechnik",
+      "Security Technician",
+      "Sicherheitstechniker/in (IT)",
+      "Techniker/in - Informatik (IT-Sicherheit)/B. Prof. Technik"
+    ],
+    "entgelt": 6090,
+    "entgeltQ25": 4614,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "34334",
+    "name": "Berufe in der Abfallwirtschaft - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Abfallwirtschaftsingenieur/in",
+      "Dipl.-Ing. - Entsorgungstechnik",
+      "Dipl.-Ing. (FH) - Recycling",
+      "Ingenieur/in - Abfallentsorgung",
+      "Ingenieur/in - Abfallwirtschaft",
+      "Ingenieur/in - Entsorgungstechnik",
+      "Ingenieur/in - Recycling"
+    ],
+    "entgelt": 6087,
+    "entgeltQ25": 4927,
+    "entgeltQ75": "n/a"
+  },
+  {
     "kldb": "23193",
     "name": "Aufsichtskräfte - Papier- und Verpackungstechnik",
     "berufe": [
@@ -2756,267 +2840,6 @@
     "entgeltQ75": "n/a"
   },
   {
-    "kldb": "27182",
-    "name": "Berufe in der technischen Forschung und Entwicklung (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Beamt(er/in) - Bundeswehrverwaltung (mittl. techn. Dienst)",
-      "Beamt(er/in) - Wehrverwaltung (mittl. techn. Dienst)",
-      "Versuchsfeldmechaniker/in",
-      "Wehrverwaltungsbeamt(er/in) (mittl. techn. Dienst)"
-    ],
-    "entgelt": 6051,
-    "entgeltQ25": 5221,
-    "entgeltQ75": 6896
-  },
-  {
-    "kldb": "94243",
-    "name": "Athleten/Athletinnen und Berufssportler/innen - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Autorennfahrer/in",
-      "Berufsfahrer/in - Trabrennsport",
-      "Berufsreiter/in (Rennreiten)",
-      "Berufsreiter/in u. -fahrer/in",
-      "Berufsrennreiter/in",
-      "Berufssportler/in",
-      "Boxer/in",
-      "Eishockeyspieler/in",
-      "Eislaufkünstler/in",
-      "Facharbeiter/in - Pferdezucht (Berufsreiter/in)",
-      "Fußballer/in",
-      "Fußballspieler/in",
-      "Handballspieler/in",
-      "Jockey",
-      "Motorradrennfahrer/in",
-      "Radrennfahrer/in",
-      "Reiter/in",
-      "Rennreiter/in",
-      "Skiläufer/in",
-      "Tennisspieler/in",
-      "Trabrennfahrer/in"
-    ],
-    "entgelt": 6028,
-    "entgeltQ25": 2985,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "24424",
-    "name": "Berufe in der Schweiß- und Verbindungstechnik - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Schweißfachingenieur/in",
-      "Schweißingenieur/in",
-      "Verbindungsingenieur/in"
-    ],
-    "entgelt": 5994,
-    "entgeltQ25": 4935,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "82194",
-    "name": "Führungskräfte - Altenpflege",
-    "berufe": [
-      "Altenheimleiter/in",
-      "Altentagesstättenleiter/in",
-      "Altenzentrumsleiter/in",
-      "Einrichtungsleiter/in - Altenheim",
-      "Geschäftsführende/r Leiter/in (Altenheim)",
-      "Hausleiter/in (Altenheim)",
-      "Leiter/in - Altenpflegeeinrichtung",
-      "Pflegeheimleiter/in",
-      "Seniorenheimleiter/in",
-      "Seniorentagesstättenleiter/in",
-      "Seniorenzentrumsleiter/in"
-    ],
-    "entgelt": 5992,
-    "entgeltQ25": 5223,
-    "entgeltQ75": 6790
-  },
-  {
-    "kldb": "25193",
-    "name": "Aufsichtskräfte - Maschinenbau- und Betriebstechnik",
-    "berufe": [
-      "Ausrüstungsmeister/in",
-      "Industriemeister/in - Instandhaltung u. Kundendienst",
-      "Industriemeister/in - Maschinen- und Gerätebau",
-      "Industriemeister/in - Metall (Ausrüstungstechnik)",
-      "Industriemeister/in - Metall (Betriebstechnik)",
-      "Industriemeister/in - Metall (Produktionstechnik)",
-      "Maschinenbauermeister/in",
-      "Maschinenbaumechanikermeister/in",
-      "Mechanikermeister/in",
-      "Meister/in - Instandhaltung von Transportmitteln",
-      "Meister/in - Lokomotivtechnik",
-      "Meister/in - Maschinen- und Anlageninstandhaltung",
-      "Meister/in - Maschinenbau",
-      "Meister/in - Maschinenbauerhandwerk",
-      "Meister/in - Mechanikerhandwerk",
-      "Meister/in - Metall (Ausrüstungstechnik)",
-      "Meister/in - Metall (Betriebstechnik)",
-      "Meister/in - Metall (Produktionstechnik)",
-      "Meister/in - Schienenfahrzeuginstandhaltung"
-    ],
-    "entgelt": 5991,
-    "entgeltQ25": 4852,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "27103",
-    "name": "Berufe in der technischen Forschung und Entwicklung (ohne Spezialisierung) - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "3-D-Druck-Spezialist/in",
-      "Energietechniker/in - Versuch u. Entwicklung",
-      "Entwickler/in",
-      "Entwicklungstechniker/in",
-      "Entwicklungstechniker/in - Blechverarbeitung",
-      "Entwicklungstechniker/in - Feingeräte",
-      "Entwicklungstechniker/in - Maschinenbau",
-      "Entwicklungstechniker/in - Verfahrens-/Umweltschutztechnik",
-      "Techniker/in - Entwicklung von Anlagen der Umwelttechnik"
-    ],
-    "entgelt": 5905,
-    "entgeltQ25": 4802,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "32204",
-    "name": "Berufe im Tiefbau (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Bauingenieur/in - Tiefbau",
-      "Dipl.-Ing. - Bau (Tiefbau)",
-      "Dipl.-Ing. (Uni) - Kommunaler Tiefbau",
-      "Ingenieur/in - Bau (Tiefbau)",
-      "Tiefbauingenieur/in"
-    ],
-    "entgelt": 5885,
-    "entgeltQ25": 4731,
-    "entgeltQ75": 6887
-  },
-  {
-    "kldb": "32224",
-    "name": "Berufe im Straßen- und Asphaltbau - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Straßenbauingenieur/in",
-      "Wegebauingenieur/in"
-    ],
-    "entgelt": 5853,
-    "entgeltQ25": 4771,
-    "entgeltQ75": 6733
-  },
-  {
-    "kldb": "34104",
-    "name": "Berufe in der Gebäudetechnik (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Dipl.-Ing. - Gebäudetechnik",
-      "Dipl.-Ing. (FH) - Krankenhausbetriebstechnik",
-      "Dipl.-Wirtschaftsingenieur/in (FH) - Facility Management",
-      "Ingenieur/in - Gebäudetechnik/Facility-Management",
-      "Ingenieur/in - Haustechnik",
-      "Ingenieur/in - Krankenhausbetriebstechnik"
-    ],
-    "entgelt": 5821,
-    "entgeltQ25": 4765,
-    "entgeltQ75": 6945
-  },
-  {
-    "kldb": "24293",
-    "name": "Aufsichtskräfte - Metallbearbeitung",
-    "berufe": [
-      "Betriebsmeister/in (Spanende Fertigung)",
-      "Drehermeister/in",
-      "Industriemeister/in - Aluminiumbe- und -verarbeitung",
-      "Industriemeister/in - Draht",
-      "Industriemeister/in - Metall",
-      "Meister/in - Aluminiumbe- und verarbeitung",
-      "Nadelmachermeister/in"
-    ],
-    "entgelt": 5805,
-    "entgeltQ25": 4846,
-    "entgeltQ75": 6950
-  },
-  {
-    "kldb": "51543",
-    "name": "Berufe in der Überwachung und Steuerung des Schiffsverkehrsbetriebs - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Hafenlotse/-lotsin",
-      "Hafenmeister/in",
-      "Kanallotse/-lotsin",
-      "Lotse/Lotsin",
-      "Lotsenkapitän/in",
-      "Revierlotse/-lotsin",
-      "Schiffslotse/-lotsin",
-      "Seelotse/-lotsin"
-    ],
-    "entgelt": "n/a",
-    "entgeltQ25": 4657,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "53184",
-    "name": "Berufe in Objekt-, Personen-, Brandschutz, Arbeitssicherheit (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Fahrerlaubnisprüfer/in",
-      "Fahrprüfer/in",
-      "Ingenieur/in - Rettungswesen",
-      "Sicherheitsmanager/in"
-    ],
-    "entgelt": 6260,
-    "entgeltQ25": 4405,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "51694",
-    "name": "Führungskräfte - Verkehr und Logistik (kaufmännischer Bereich)",
-    "berufe": [
-      "Fuhrunternehmer/in",
-      "Leiter/in - Logistik",
-      "Leiter/in - Materialwirtschaft",
-      "Leiter/in - Supply-Chain-Management",
-      "Logistikleiter/in",
-      "Materialwirtschaftsleiter/in",
-      "Omnibusverkehrsunternehmer/in",
-      "Reeder/in",
-      "Rollfuhrunternehmer/in",
-      "Schiffsreeder/in",
-      "Taxiunternehmer/in"
-    ],
-    "entgelt": 6243,
-    "entgeltQ25": 4440,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "43383",
-    "name": "Berufe in der IT-Netzwerktechnik, IT-Koordination, IT-Administration und IT-Organisation (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Arbeitsvorbereiter/in (Rechenzentrum)",
-      "Bachelor Professional - IT (Informationssicherheit)",
-      "Berufsspezialist/in - Informationssicherheit",
-      "Informationssicherheitsbeauftragte/r",
-      "IT-Sicherheitstechniker/in",
-      "IT-Spezialist/in - IT-Sicherheitstechnik",
-      "Security Technician",
-      "Sicherheitstechniker/in (IT)",
-      "Techniker/in - Informatik (IT-Sicherheit)/B. Prof. Technik"
-    ],
-    "entgelt": 6090,
-    "entgeltQ25": 4614,
-    "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "34334",
-    "name": "Berufe in der Abfallwirtschaft - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Abfallwirtschaftsingenieur/in",
-      "Dipl.-Ing. - Entsorgungstechnik",
-      "Dipl.-Ing. (FH) - Recycling",
-      "Ingenieur/in - Abfallentsorgung",
-      "Ingenieur/in - Abfallwirtschaft",
-      "Ingenieur/in - Entsorgungstechnik",
-      "Ingenieur/in - Recycling"
-    ],
-    "entgelt": 6087,
-    "entgeltQ25": 4927,
-    "entgeltQ75": "n/a"
-  },
-  {
     "kldb": "73104",
     "name": "Berufe in Rechtsberatung, -sprechung und -ordnung (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
     "berufe": [
@@ -3030,6 +2853,19 @@
     "entgelt": 6059,
     "entgeltQ25": 4440,
     "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "27182",
+    "name": "Berufe in der technischen Forschung und Entwicklung (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Beamt(er/in) - Bundeswehrverwaltung (mittl. techn. Dienst)",
+      "Beamt(er/in) - Wehrverwaltung (mittl. techn. Dienst)",
+      "Versuchsfeldmechaniker/in",
+      "Wehrverwaltungsbeamt(er/in) (mittl. techn. Dienst)"
+    ],
+    "entgelt": 6051,
+    "entgeltQ25": 5221,
+    "entgeltQ75": 6896
   },
   {
     "kldb": "41484",
@@ -3137,6 +2973,96 @@
     "entgeltQ75": "n/a"
   },
   {
+    "kldb": "94243",
+    "name": "Athleten/Athletinnen und Berufssportler/innen - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Autorennfahrer/in",
+      "Berufsfahrer/in - Trabrennsport",
+      "Berufsreiter/in (Rennreiten)",
+      "Berufsreiter/in u. -fahrer/in",
+      "Berufsrennreiter/in",
+      "Berufssportler/in",
+      "Boxer/in",
+      "Eishockeyspieler/in",
+      "Eislaufkünstler/in",
+      "Facharbeiter/in - Pferdezucht (Berufsreiter/in)",
+      "Fußballer/in",
+      "Fußballspieler/in",
+      "Handballspieler/in",
+      "Jockey",
+      "Motorradrennfahrer/in",
+      "Radrennfahrer/in",
+      "Reiter/in",
+      "Rennreiter/in",
+      "Skiläufer/in",
+      "Tennisspieler/in",
+      "Trabrennfahrer/in"
+    ],
+    "entgelt": 6028,
+    "entgeltQ25": 2985,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "24424",
+    "name": "Berufe in der Schweiß- und Verbindungstechnik - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Schweißfachingenieur/in",
+      "Schweißingenieur/in",
+      "Verbindungsingenieur/in"
+    ],
+    "entgelt": 5994,
+    "entgeltQ25": 4935,
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "82194",
+    "name": "Führungskräfte - Altenpflege",
+    "berufe": [
+      "Altenheimleiter/in",
+      "Altentagesstättenleiter/in",
+      "Altenzentrumsleiter/in",
+      "Einrichtungsleiter/in - Altenheim",
+      "Geschäftsführende/r Leiter/in (Altenheim)",
+      "Hausleiter/in (Altenheim)",
+      "Leiter/in - Altenpflegeeinrichtung",
+      "Pflegeheimleiter/in",
+      "Seniorenheimleiter/in",
+      "Seniorentagesstättenleiter/in",
+      "Seniorenzentrumsleiter/in"
+    ],
+    "entgelt": 5992,
+    "entgeltQ25": 5223,
+    "entgeltQ75": 6790
+  },
+  {
+    "kldb": "25193",
+    "name": "Aufsichtskräfte - Maschinenbau- und Betriebstechnik",
+    "berufe": [
+      "Ausrüstungsmeister/in",
+      "Industriemeister/in - Instandhaltung u. Kundendienst",
+      "Industriemeister/in - Maschinen- und Gerätebau",
+      "Industriemeister/in - Metall (Ausrüstungstechnik)",
+      "Industriemeister/in - Metall (Betriebstechnik)",
+      "Industriemeister/in - Metall (Produktionstechnik)",
+      "Maschinenbauermeister/in",
+      "Maschinenbaumechanikermeister/in",
+      "Mechanikermeister/in",
+      "Meister/in - Instandhaltung von Transportmitteln",
+      "Meister/in - Lokomotivtechnik",
+      "Meister/in - Maschinen- und Anlageninstandhaltung",
+      "Meister/in - Maschinenbau",
+      "Meister/in - Maschinenbauerhandwerk",
+      "Meister/in - Mechanikerhandwerk",
+      "Meister/in - Metall (Ausrüstungstechnik)",
+      "Meister/in - Metall (Betriebstechnik)",
+      "Meister/in - Metall (Produktionstechnik)",
+      "Meister/in - Schienenfahrzeuginstandhaltung"
+    ],
+    "entgelt": 5991,
+    "entgeltQ25": 4852,
+    "entgeltQ75": "n/a"
+  },
+  {
     "kldb": "41313",
     "name": "Berufe in der Chemie- und Pharmatechnik - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -3222,6 +3148,24 @@
     "entgeltQ75": "n/a"
   },
   {
+    "kldb": "27103",
+    "name": "Berufe in der technischen Forschung und Entwicklung (ohne Spezialisierung) - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "3-D-Druck-Spezialist/in",
+      "Energietechniker/in - Versuch u. Entwicklung",
+      "Entwickler/in",
+      "Entwicklungstechniker/in",
+      "Entwicklungstechniker/in - Blechverarbeitung",
+      "Entwicklungstechniker/in - Feingeräte",
+      "Entwicklungstechniker/in - Maschinenbau",
+      "Entwicklungstechniker/in - Verfahrens-/Umweltschutztechnik",
+      "Techniker/in - Entwicklung von Anlagen der Umwelttechnik"
+    ],
+    "entgelt": 5905,
+    "entgeltQ25": 4802,
+    "entgeltQ75": "n/a"
+  },
+  {
     "kldb": "43224",
     "name": "Berufe in der IT-Anwendungsberatung - hoch komplexe Tätigkeiten",
     "berufe": [
@@ -3230,6 +3174,31 @@
     "entgelt": 5893,
     "entgeltQ25": 4627,
     "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "32204",
+    "name": "Berufe im Tiefbau (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Bauingenieur/in - Tiefbau",
+      "Dipl.-Ing. - Bau (Tiefbau)",
+      "Dipl.-Ing. (Uni) - Kommunaler Tiefbau",
+      "Ingenieur/in - Bau (Tiefbau)",
+      "Tiefbauingenieur/in"
+    ],
+    "entgelt": 5885,
+    "entgeltQ25": 4731,
+    "entgeltQ75": 6887
+  },
+  {
+    "kldb": "73293",
+    "name": "Aufsichtskräfte - Verwaltung",
+    "berufe": [
+      "Abschnittsleiter/in (Sozialversicherung)",
+      "Leiter/in Oberfinanzkasse (g.D. - Steuerverwaltung)"
+    ],
+    "entgelt": 5870,
+    "entgeltQ25": 5082,
+    "entgeltQ75": 6398
   },
   {
     "kldb": "51133",
@@ -3262,17 +3231,6 @@
     "entgeltQ75": 6884
   },
   {
-    "kldb": "73293",
-    "name": "Aufsichtskräfte - Verwaltung",
-    "berufe": [
-      "Abschnittsleiter/in (Sozialversicherung)",
-      "Leiter/in Oberfinanzkasse (g.D. - Steuerverwaltung)"
-    ],
-    "entgelt": 5870,
-    "entgeltQ25": 5082,
-    "entgeltQ75": 6398
-  },
-  {
     "kldb": "43414",
     "name": "Berufe in der Softwareentwicklung - hoch komplexe Tätigkeiten",
     "berufe": [
@@ -3295,6 +3253,17 @@
     "entgelt": 5858,
     "entgeltQ25": 4703,
     "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "32224",
+    "name": "Berufe im Straßen- und Asphaltbau - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Straßenbauingenieur/in",
+      "Wegebauingenieur/in"
+    ],
+    "entgelt": 5853,
+    "entgeltQ25": 4771,
+    "entgeltQ75": 6733
   },
   {
     "kldb": "41324",
@@ -3329,6 +3298,21 @@
     "entgeltQ75": "n/a"
   },
   {
+    "kldb": "34104",
+    "name": "Berufe in der Gebäudetechnik (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Dipl.-Ing. - Gebäudetechnik",
+      "Dipl.-Ing. (FH) - Krankenhausbetriebstechnik",
+      "Dipl.-Wirtschaftsingenieur/in (FH) - Facility Management",
+      "Ingenieur/in - Gebäudetechnik/Facility-Management",
+      "Ingenieur/in - Haustechnik",
+      "Ingenieur/in - Krankenhausbetriebstechnik"
+    ],
+    "entgelt": 5821,
+    "entgeltQ25": 4765,
+    "entgeltQ75": 6945
+  },
+  {
     "kldb": "72183",
     "name": "Berufe in Versicherungs- und Finanzdienstleistungen (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -3346,6 +3330,22 @@
     "entgelt": 5807,
     "entgeltQ25": 4855,
     "entgeltQ75": 6710
+  },
+  {
+    "kldb": "24293",
+    "name": "Aufsichtskräfte - Metallbearbeitung",
+    "berufe": [
+      "Betriebsmeister/in (Spanende Fertigung)",
+      "Drehermeister/in",
+      "Industriemeister/in - Aluminiumbe- und -verarbeitung",
+      "Industriemeister/in - Draht",
+      "Industriemeister/in - Metall",
+      "Meister/in - Aluminiumbe- und verarbeitung",
+      "Nadelmachermeister/in"
+    ],
+    "entgelt": 5805,
+    "entgeltQ25": 4846,
+    "entgeltQ75": 6950
   },
   {
     "kldb": "41274",
@@ -4042,6 +4042,21 @@
     "entgeltQ75": "n/a"
   },
   {
+    "kldb": "91314",
+    "name": "Berufe in der Politologie - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Diplom-Staatswissenschaftler/in - Außenpolitik",
+      "Diplom-Staatswissenschaftler/in - Staatswissenschaften",
+      "Politikwissenschaftler/in",
+      "Politologe/Politologin",
+      "Referent/in für Politik",
+      "Staatswissenschaftler/in"
+    ],
+    "entgelt": 5542,
+    "entgeltQ25": 4630,
+    "entgeltQ75": 6665
+  },
+  {
     "kldb": "26323",
     "name": "Berufe in der Mikrosystemtechnik - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -4058,21 +4073,6 @@
     "entgelt": 5542,
     "entgeltQ25": 4466,
     "entgeltQ75": "n/a"
-  },
-  {
-    "kldb": "91314",
-    "name": "Berufe in der Politologie - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Diplom-Staatswissenschaftler/in - Außenpolitik",
-      "Diplom-Staatswissenschaftler/in - Staatswissenschaften",
-      "Politikwissenschaftler/in",
-      "Politologe/Politologin",
-      "Referent/in für Politik",
-      "Staatswissenschaftler/in"
-    ],
-    "entgelt": 5542,
-    "entgeltQ25": 4630,
-    "entgeltQ75": 6665
   },
   {
     "kldb": "93104",
@@ -4221,30 +4221,6 @@
     "entgeltQ75": 6773
   },
   {
-    "kldb": "24393",
-    "name": "Aufsichtskräfte - Metalloberflächenbehandlung",
-    "berufe": [
-      "Abteilungsleiter/in (Korrosionsschutztechnik)",
-      "Galvaniseur- u. Metallschleifermeister/in",
-      "Galvaniseurmeister/in/B. Prof. Galvaniseur-Handwerk",
-      "Handwerksmeister/in - Galvanisieren",
-      "Härtereileiter/in",
-      "Härtereimeister/in",
-      "Industriemeister/in - Galvanik",
-      "Industriemeister/in - Oberflächentechnik",
-      "Industriemeister/in - Oberflächenveredlung",
-      "Leiter/in - Galvanikabteilung",
-      "Leiter/in - Oberflächentechnik",
-      "Meister/in - Galvaniseurhandwerk",
-      "Meister/in - Oberflächentechnik",
-      "Vergoldermeister/in (Metalloberflächenveredelung)",
-      "Werkmeister/in (Wärmebehandlungstechnik)"
-    ],
-    "entgelt": 5507,
-    "entgeltQ25": 4318,
-    "entgeltQ75": 6873
-  },
-  {
     "kldb": "31104",
     "name": "Berufe in der Bauplanung und -überwachung (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
     "berufe": [
@@ -4271,6 +4247,30 @@
     "entgeltQ75": 6693
   },
   {
+    "kldb": "24393",
+    "name": "Aufsichtskräfte - Metalloberflächenbehandlung",
+    "berufe": [
+      "Abteilungsleiter/in (Korrosionsschutztechnik)",
+      "Galvaniseur- u. Metallschleifermeister/in",
+      "Galvaniseurmeister/in/B. Prof. Galvaniseur-Handwerk",
+      "Handwerksmeister/in - Galvanisieren",
+      "Härtereileiter/in",
+      "Härtereimeister/in",
+      "Industriemeister/in - Galvanik",
+      "Industriemeister/in - Oberflächentechnik",
+      "Industriemeister/in - Oberflächenveredlung",
+      "Leiter/in - Galvanikabteilung",
+      "Leiter/in - Oberflächentechnik",
+      "Meister/in - Galvaniseurhandwerk",
+      "Meister/in - Oberflächentechnik",
+      "Vergoldermeister/in (Metalloberflächenveredelung)",
+      "Werkmeister/in (Wärmebehandlungstechnik)"
+    ],
+    "entgelt": 5507,
+    "entgeltQ25": 4318,
+    "entgeltQ75": 6873
+  },
+  {
     "kldb": "31194",
     "name": "Führungskräfte - Bauplanung und -überwachung, Architektur",
     "berufe": [
@@ -4284,20 +4284,6 @@
     "entgelt": 5506,
     "entgeltQ25": 4481,
     "entgeltQ75": 6759
-  },
-  {
-    "kldb": "41204",
-    "name": "Berufe in der Biologie (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Biologe/Biologin",
-      "Biologe/Biologin - allgemeine Biologie",
-      "Biologe/Biologin (BA/FH/Uni) - alle Fachrichtungen",
-      "Biowissenschaftler/in",
-      "Dipl.-Biologe/-Biologin (Uni)"
-    ],
-    "entgelt": 5506,
-    "entgeltQ25": 4277,
-    "entgeltQ75": 6718
   },
   {
     "kldb": "43333",
@@ -4315,6 +4301,20 @@
     "entgelt": 5506,
     "entgeltQ25": 4420,
     "entgeltQ75": 6796
+  },
+  {
+    "kldb": "41204",
+    "name": "Berufe in der Biologie (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Biologe/Biologin",
+      "Biologe/Biologin - allgemeine Biologie",
+      "Biologe/Biologin (BA/FH/Uni) - alle Fachrichtungen",
+      "Biowissenschaftler/in",
+      "Dipl.-Biologe/-Biologin (Uni)"
+    ],
+    "entgelt": 5506,
+    "entgeltQ25": 4277,
+    "entgeltQ75": 6718
   },
   {
     "kldb": "32293",
@@ -4665,23 +4665,6 @@
     "entgeltQ75": 6035
   },
   {
-    "kldb": "28104",
-    "name": "Berufe in der Textiltechnik (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Dipl.-Ing. - Textiltechnik",
-      "Dipl.-Ing. - Textiltechnologie",
-      "Dipl.-Ing. (FH) - Textil",
-      "Dipl.-Ing. (Uni) - Textil- und Konfektionstechnik",
-      "Ingenieur/in - Textiltechnik",
-      "Master of Science - Textile and Clothing Technologie",
-      "Technische/r Produktmanager/in (Textilindustrie)",
-      "Textilingenieur/in"
-    ],
-    "entgelt": 5413,
-    "entgeltQ25": 4094,
-    "entgeltQ75": "n/a"
-  },
-  {
     "kldb": "71303",
     "name": "Berufe in der kaufmännischen und technischen Betriebswirtschaft (ohne Spezialisierung) - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -4736,6 +4719,23 @@
     "entgeltQ75": 6885
   },
   {
+    "kldb": "28104",
+    "name": "Berufe in der Textiltechnik (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Dipl.-Ing. - Textiltechnik",
+      "Dipl.-Ing. - Textiltechnologie",
+      "Dipl.-Ing. (FH) - Textil",
+      "Dipl.-Ing. (Uni) - Textil- und Konfektionstechnik",
+      "Ingenieur/in - Textiltechnik",
+      "Master of Science - Textile and Clothing Technologie",
+      "Technische/r Produktmanager/in (Textilindustrie)",
+      "Textilingenieur/in"
+    ],
+    "entgelt": 5413,
+    "entgeltQ25": 4094,
+    "entgeltQ75": "n/a"
+  },
+  {
     "kldb": "41423",
     "name": "Berufe in der Werkstofftechnik - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -4750,6 +4750,22 @@
     "entgelt": 5403,
     "entgeltQ25": 4216,
     "entgeltQ75": 6573
+  },
+  {
+    "kldb": "73183",
+    "name": "Berufe in Rechtsberatung, -sprechung und -ordnung (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Beauftragte/r - Datenschutz",
+      "Datenschutzbeauftragte/r",
+      "Fachschuljurist/in",
+      "Geldwäschebeauftragte/r",
+      "Prozessagent/in",
+      "Rechtsbeistand",
+      "Rechtsschutzbeauftragte/r"
+    ],
+    "entgelt": 5402,
+    "entgeltQ25": 4837,
+    "entgeltQ75": 6067
   },
   {
     "kldb": "26232",
@@ -4788,22 +4804,6 @@
     "entgelt": 5402,
     "entgeltQ25": 4480,
     "entgeltQ75": 6486
-  },
-  {
-    "kldb": "73183",
-    "name": "Berufe in Rechtsberatung, -sprechung und -ordnung (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Beauftragte/r - Datenschutz",
-      "Datenschutzbeauftragte/r",
-      "Fachschuljurist/in",
-      "Geldwäschebeauftragte/r",
-      "Prozessagent/in",
-      "Rechtsbeistand",
-      "Rechtsschutzbeauftragte/r"
-    ],
-    "entgelt": 5402,
-    "entgeltQ25": 4837,
-    "entgeltQ75": 6067
   },
   {
     "kldb": "41284",
@@ -5132,6 +5132,16 @@
     "entgeltQ75": 6928
   },
   {
+    "kldb": "41383",
+    "name": "Berufe in der Chemie (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Bachelor of Science - Chemie (anorganische Chemie)"
+    ],
+    "entgelt": 5309,
+    "entgeltQ25": 4374,
+    "entgeltQ75": 6380
+  },
+  {
     "kldb": "32264",
     "name": "Berufe im Kultur- und Wasserbau - hoch komplexe Tätigkeiten",
     "berufe": [
@@ -5145,16 +5155,6 @@
     "entgelt": 5309,
     "entgeltQ25": 4346,
     "entgeltQ75": 6508
-  },
-  {
-    "kldb": "41383",
-    "name": "Berufe in der Chemie (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Bachelor of Science - Chemie (anorganische Chemie)"
-    ],
-    "entgelt": 5309,
-    "entgeltQ25": 4374,
-    "entgeltQ75": 6380
   },
   {
     "kldb": "23124",
@@ -5217,6 +5217,24 @@
     "entgeltQ75": 6562
   },
   {
+    "kldb": "94534",
+    "name": "Berufe in der Bild- und Tontechnik - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Bildingenieur/in",
+      "Bildregisseur/in",
+      "Dipl.-Toningenieur/in/Dipl.-Tonmeister/in (FH)",
+      "Dipl.-Tonmeister/in",
+      "Ingenieur/in - Tontechnik",
+      "Theatertonmeister/in",
+      "Toningenieur/in",
+      "Tonmeister/in",
+      "Tonmeister/in / Toningenieur/in"
+    ],
+    "entgelt": 5293,
+    "entgeltQ25": 4024,
+    "entgeltQ75": 6939
+  },
+  {
     "kldb": "61123",
     "name": "Berufe im Vertrieb (außer Informations- und Kommunikationstechnologien) - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -5254,24 +5272,6 @@
     "entgelt": 5293,
     "entgeltQ25": 3880,
     "entgeltQ75": 6886
-  },
-  {
-    "kldb": "94534",
-    "name": "Berufe in der Bild- und Tontechnik - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Bildingenieur/in",
-      "Bildregisseur/in",
-      "Dipl.-Toningenieur/in/Dipl.-Tonmeister/in (FH)",
-      "Dipl.-Tonmeister/in",
-      "Ingenieur/in - Tontechnik",
-      "Theatertonmeister/in",
-      "Toningenieur/in",
-      "Tonmeister/in",
-      "Tonmeister/in / Toningenieur/in"
-    ],
-    "entgelt": 5293,
-    "entgeltQ25": 4024,
-    "entgeltQ75": 6939
   },
   {
     "kldb": "26253",
@@ -6819,22 +6819,6 @@
     "entgeltQ75": 6751
   },
   {
-    "kldb": "34343",
-    "name": "Berufe im Anlagen-, Behälter- und Apparatebau - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Anlagenbautechniker/in",
-      "Anlagentechniker/in",
-      "Maschinenbautechniker/in - Anlagentechnik",
-      "Maschinentechniker/in - Anlagentechnik",
-      "Techniker/in - Anlagenbau",
-      "Techniker/in - Anlageninstandhaltung",
-      "Techniker/in - Maschinentechnik (Anlagentechnik)"
-    ],
-    "entgelt": 5032,
-    "entgeltQ25": 3822,
-    "entgeltQ75": 6688
-  },
-  {
     "kldb": "84444",
     "name": "Berufe im IT-Anwendungstraining - hoch komplexe Tätigkeiten",
     "berufe": [
@@ -6870,6 +6854,22 @@
     "entgelt": 5032,
     "entgeltQ25": 3969,
     "entgeltQ75": 6472
+  },
+  {
+    "kldb": "34343",
+    "name": "Berufe im Anlagen-, Behälter- und Apparatebau - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Anlagenbautechniker/in",
+      "Anlagentechniker/in",
+      "Maschinenbautechniker/in - Anlagentechnik",
+      "Maschinentechniker/in - Anlagentechnik",
+      "Techniker/in - Anlagenbau",
+      "Techniker/in - Anlageninstandhaltung",
+      "Techniker/in - Maschinentechnik (Anlagentechnik)"
+    ],
+    "entgelt": 5032,
+    "entgeltQ25": 3822,
+    "entgeltQ75": 6688
   },
   {
     "kldb": "51504",
@@ -8150,6 +8150,19 @@
     "entgeltQ75": 6221
   },
   {
+    "kldb": "26102",
+    "name": "Berufe in der Mechatronik und Automatisierungstechnik (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Fertigungsautomaten-Spezialist/in",
+      "Industrietechnologe/-technologin",
+      "Roboterprogrammierer/in",
+      "Roboter-Spezialist/in"
+    ],
+    "entgelt": 4711,
+    "entgeltQ25": 4002,
+    "entgeltQ75": 5955
+  },
+  {
     "kldb": "24423",
     "name": "Berufe in der Schweiß- und Verbindungstechnik - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -8163,19 +8176,6 @@
     "entgelt": 4711,
     "entgeltQ25": 3891,
     "entgeltQ75": 5627
-  },
-  {
-    "kldb": "26102",
-    "name": "Berufe in der Mechatronik und Automatisierungstechnik (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Fertigungsautomaten-Spezialist/in",
-      "Industrietechnologe/-technologin",
-      "Roboterprogrammierer/in",
-      "Roboter-Spezialist/in"
-    ],
-    "entgelt": 4711,
-    "entgeltQ25": 4002,
-    "entgeltQ75": 5955
   },
   {
     "kldb": "51293",
@@ -8627,6 +8627,24 @@
     "entgeltQ75": 5408
   },
   {
+    "kldb": "94704",
+    "name": "Museumsberufe (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Dipl.-Museologe/Museologin (FH)",
+      "Kunstgeschichtler/in",
+      "Kunsthistoriker/in",
+      "Kunstwissenschaftler/in",
+      "Kurator/in",
+      "Museologe/Museologin",
+      "Museumskundler/in",
+      "Museumsregistrar/in",
+      "Registrar/in (Museum)"
+    ],
+    "entgelt": 4576,
+    "entgeltQ25": 3453,
+    "entgeltQ75": 5784
+  },
+  {
     "kldb": "25183",
     "name": "Berufe in der Maschinenbau- und Betriebstechnik (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -8664,24 +8682,6 @@
     "entgelt": 4576,
     "entgeltQ25": 3384,
     "entgeltQ75": 6226
-  },
-  {
-    "kldb": "94704",
-    "name": "Museumsberufe (ohne Spezialisierung) - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Dipl.-Museologe/Museologin (FH)",
-      "Kunstgeschichtler/in",
-      "Kunsthistoriker/in",
-      "Kunstwissenschaftler/in",
-      "Kurator/in",
-      "Museologe/Museologin",
-      "Museumskundler/in",
-      "Museumsregistrar/in",
-      "Registrar/in (Museum)"
-    ],
-    "entgelt": 4576,
-    "entgeltQ25": 3453,
-    "entgeltQ75": 5784
   },
   {
     "kldb": "72243",
@@ -9413,6 +9413,16 @@
     "entgeltQ75": 5532
   },
   {
+    "kldb": "81333",
+    "name": "Berufe in der operations-/medizintechnischen Assistenz - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Arztassistent/in / Physician Assistant"
+    ],
+    "entgelt": 4451,
+    "entgeltQ25": 3859,
+    "entgeltQ75": 5192
+  },
+  {
     "kldb": "29253",
     "name": "Berufe in der Milchproduktherstellung - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -9435,16 +9445,6 @@
     "entgelt": 4451,
     "entgeltQ25": 3696,
     "entgeltQ75": 5655
-  },
-  {
-    "kldb": "81333",
-    "name": "Berufe in der operations-/medizintechnischen Assistenz - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Arztassistent/in / Physician Assistant"
-    ],
-    "entgelt": 4451,
-    "entgeltQ25": 3859,
-    "entgeltQ75": 5192
   },
   {
     "kldb": "73283",
@@ -9666,21 +9666,6 @@
     "entgeltQ75": 5104
   },
   {
-    "kldb": "61323",
-    "name": "Berufe im Facility-Management - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Fachmann/-frau - Gebäudebewirtschaftung",
-      "Fachwirt/in - Facility-Management",
-      "Fachwirt/in - Gebäudemanagement",
-      "Facility-Manager/in",
-      "Gebäudemanager/in",
-      "Kastellan/in"
-    ],
-    "entgelt": 4414,
-    "entgeltQ25": 3403,
-    "entgeltQ75": 5795
-  },
-  {
     "kldb": "63294",
     "name": "Führungskräfte - Hotellerie",
     "berufe": [
@@ -9701,6 +9686,21 @@
     "entgelt": 4414,
     "entgeltQ25": 3404,
     "entgeltQ75": 6078
+  },
+  {
+    "kldb": "61323",
+    "name": "Berufe im Facility-Management - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Fachmann/-frau - Gebäudebewirtschaftung",
+      "Fachwirt/in - Facility-Management",
+      "Fachwirt/in - Gebäudemanagement",
+      "Facility-Manager/in",
+      "Gebäudemanager/in",
+      "Kastellan/in"
+    ],
+    "entgelt": 4414,
+    "entgeltQ25": 3403,
+    "entgeltQ75": 5795
   },
   {
     "kldb": "11713",
@@ -10916,6 +10916,16 @@
     "entgeltQ75": 5224
   },
   {
+    "kldb": "81524",
+    "name": "Tierärzte/-ärztinnen für Haus- und Heimtiere - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Tierarzt/-ärztin - Haus- und Heimtiere"
+    ],
+    "entgelt": 4211,
+    "entgeltQ25": 3454,
+    "entgeltQ75": 5307
+  },
+  {
     "kldb": "62182",
     "name": "Berufe im Verkauf (ohne Produktspezialisierung) (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -10928,16 +10938,6 @@
     "entgelt": 4211,
     "entgeltQ25": 3233,
     "entgeltQ75": 5533
-  },
-  {
-    "kldb": "81524",
-    "name": "Tierärzte/-ärztinnen für Haus- und Heimtiere - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Tierarzt/-ärztin - Haus- und Heimtiere"
-    ],
-    "entgelt": 4211,
-    "entgeltQ25": 3454,
-    "entgeltQ75": 5307
   },
   {
     "kldb": "32132",
@@ -11415,6 +11415,31 @@
     "entgeltQ75": 4774
   },
   {
+    "kldb": "83123",
+    "name": "Berufe in der Sozialarbeit und Sozialpädagogik - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Arbeitspädagoge/-pädagogin",
+      "Dipl.-Sozialarbeiter/in (BA)",
+      "Dipl.-Sozialpädagoge/-pädagogin (BA)",
+      "Ehrenamtskoordinator/in",
+      "Fachkraft - Sozialarbeit",
+      "Freundschaftspionierleiter/in",
+      "Fürsorger/in",
+      "Gerontosoziale/r Betreuer/in",
+      "Gruppenbetreuer/in (Jugendarbeit)",
+      "Gruppenleiter/in,Teamleiter/in - Sozialarbeit",
+      "Jugendgruppenleiter/in",
+      "Klubleiter/in",
+      "Pfleger/in (Sozialpfleger/in)",
+      "Sozialfürsorger/in",
+      "Sozialpfleger/in",
+      "Sozialsekretär/in"
+    ],
+    "entgelt": 4189,
+    "entgeltQ25": 3541,
+    "entgeltQ75": 4733
+  },
+  {
     "kldb": "51623",
     "name": "Speditions- und Logistikkaufleute - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -11444,31 +11469,6 @@
     "entgelt": 4189,
     "entgeltQ25": 3288,
     "entgeltQ75": 5472
-  },
-  {
-    "kldb": "83123",
-    "name": "Berufe in der Sozialarbeit und Sozialpädagogik - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Arbeitspädagoge/-pädagogin",
-      "Dipl.-Sozialarbeiter/in (BA)",
-      "Dipl.-Sozialpädagoge/-pädagogin (BA)",
-      "Ehrenamtskoordinator/in",
-      "Fachkraft - Sozialarbeit",
-      "Freundschaftspionierleiter/in",
-      "Fürsorger/in",
-      "Gerontosoziale/r Betreuer/in",
-      "Gruppenbetreuer/in (Jugendarbeit)",
-      "Gruppenleiter/in,Teamleiter/in - Sozialarbeit",
-      "Jugendgruppenleiter/in",
-      "Klubleiter/in",
-      "Pfleger/in (Sozialpfleger/in)",
-      "Sozialfürsorger/in",
-      "Sozialpfleger/in",
-      "Sozialsekretär/in"
-    ],
-    "entgelt": 4189,
-    "entgeltQ25": 3541,
-    "entgeltQ75": 4733
   },
   {
     "kldb": "22293",
@@ -11679,6 +11679,24 @@
     "entgeltQ75": 4948
   },
   {
+    "kldb": "71442",
+    "name": "Kodierer/innen, Korrekturleser/innen und verwandte Bürokräfte - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Bildschirmkorrektor/in",
+      "Clinical Coder/in",
+      "Datenkontrolleur/in",
+      "Facharbeiter/in - Satztechnik (Korrektur)",
+      "Fachkorrektor/in",
+      "Kodierer/in",
+      "Korrektor/in",
+      "Korrekturleser/in",
+      "Zeitungskorrektor/in"
+    ],
+    "entgelt": 4146,
+    "entgeltQ25": 3499,
+    "entgeltQ75": 4911
+  },
+  {
     "kldb": "26262",
     "name": "Berufe in der Leitungsinstallation und -wartung - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -11704,24 +11722,6 @@
     "entgelt": 4146,
     "entgeltQ25": 3192,
     "entgeltQ75": 5165
-  },
-  {
-    "kldb": "71442",
-    "name": "Kodierer/innen, Korrekturleser/innen und verwandte Bürokräfte - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Bildschirmkorrektor/in",
-      "Clinical Coder/in",
-      "Datenkontrolleur/in",
-      "Facharbeiter/in - Satztechnik (Korrektur)",
-      "Fachkorrektor/in",
-      "Kodierer/in",
-      "Korrektor/in",
-      "Korrekturleser/in",
-      "Zeitungskorrektor/in"
-    ],
-    "entgelt": 4146,
-    "entgeltQ25": 3499,
-    "entgeltQ75": 4911
   },
   {
     "kldb": "34302",
@@ -11891,18 +11891,6 @@
     "entgeltQ75": 4857
   },
   {
-    "kldb": "73242",
-    "name": "Berufe im Zolldienst - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Beamt(er/in) - Zolldienst (mittl. Dienst)",
-      "Zollbeamt(er/in) (mittl. Dienst)",
-      "Zollsachbearbeiter/in"
-    ],
-    "entgelt": 4122,
-    "entgeltQ25": 3430,
-    "entgeltQ75": 5142
-  },
-  {
     "kldb": "82593",
     "name": "Aufsichtskräfte - Medizin-, Orthopädie- und Rehatechnik",
     "berufe": [
@@ -11923,6 +11911,18 @@
     "entgelt": 4122,
     "entgeltQ25": 3483,
     "entgeltQ75": 5019
+  },
+  {
+    "kldb": "73242",
+    "name": "Berufe im Zolldienst - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Beamt(er/in) - Zolldienst (mittl. Dienst)",
+      "Zollbeamt(er/in) (mittl. Dienst)",
+      "Zollsachbearbeiter/in"
+    ],
+    "entgelt": 4122,
+    "entgeltQ25": 3430,
+    "entgeltQ75": 5142
   },
   {
     "kldb": "32232",
@@ -12111,6 +12111,17 @@
     "entgeltQ75": 4691
   },
   {
+    "kldb": "94712",
+    "name": "Berufe in der Museums- und Ausstellungstechnik - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Fachkraft - Denkmalpflege",
+      "Techn. Assistent/in - naturkundliche Museen/Forschungsinst."
+    ],
+    "entgelt": 4091,
+    "entgeltQ25": 3484,
+    "entgeltQ75": 5078
+  },
+  {
     "kldb": "42312",
     "name": "Berufe in der Umweltschutzverwaltung und -beratung - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -12122,17 +12133,6 @@
     "entgelt": 4091,
     "entgeltQ25": 3076,
     "entgeltQ75": 5387
-  },
-  {
-    "kldb": "94712",
-    "name": "Berufe in der Museums- und Ausstellungstechnik - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Fachkraft - Denkmalpflege",
-      "Techn. Assistent/in - naturkundliche Museen/Forschungsinst."
-    ],
-    "entgelt": 4091,
-    "entgeltQ25": 3484,
-    "entgeltQ75": 5078
   },
   {
     "kldb": "24122",
@@ -12347,21 +12347,6 @@
     "entgeltQ75": 4703
   },
   {
-    "kldb": "51662",
-    "name": "Kurier-, Express- und Postdienstleistungskaufleute - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Beamt(er/in) - Postdienst (mittl. techn. Dienst)",
-      "Dienstleistungsfachkraft - Postbetrieb",
-      "Kaufmann/-frau - Kurier-, Express- u. Postdienstleistungen",
-      "Postbeamt(er/in) (mittl. techn. Dienst)",
-      "Postsachbearbeiter/in",
-      "Postverkehrskaufmann/-frau"
-    ],
-    "entgelt": 4066,
-    "entgeltQ25": 3345,
-    "entgeltQ75": 4688
-  },
-  {
     "kldb": "81382",
     "name": "Berufe in der Gesundheits- und Krankenpflege (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -12377,6 +12362,21 @@
     "entgelt": 4066,
     "entgeltQ25": 3393,
     "entgeltQ75": 4704
+  },
+  {
+    "kldb": "51662",
+    "name": "Kurier-, Express- und Postdienstleistungskaufleute - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Beamt(er/in) - Postdienst (mittl. techn. Dienst)",
+      "Dienstleistungsfachkraft - Postbetrieb",
+      "Kaufmann/-frau - Kurier-, Express- u. Postdienstleistungen",
+      "Postbeamt(er/in) (mittl. techn. Dienst)",
+      "Postsachbearbeiter/in",
+      "Postverkehrskaufmann/-frau"
+    ],
+    "entgelt": 4066,
+    "entgeltQ25": 3345,
+    "entgeltQ75": 4688
   },
   {
     "kldb": "12193",
@@ -12756,6 +12756,21 @@
     "entgeltQ75": 4527
   },
   {
+    "kldb": "51642",
+    "name": "Luftverkehrskaufleute - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Duty-Officer",
+      "Luftfrachtassistent/in",
+      "Luftfrachtkaufmann/-frau",
+      "Luftverkehrskaufmann/-frau",
+      "Operationsagent/in (Luftverkehr)",
+      "Verkehrskaufmann/-frau - Luftverkehr"
+    ],
+    "entgelt": 4027,
+    "entgeltQ25": 3407,
+    "entgeltQ75": 5134
+  },
+  {
     "kldb": "26222",
     "name": "Berufe in der Elektromaschinentechnik - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -12791,21 +12806,6 @@
     "entgelt": 4027,
     "entgeltQ25": 3303,
     "entgeltQ75": 5065
-  },
-  {
-    "kldb": "51642",
-    "name": "Luftverkehrskaufleute - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Duty-Officer",
-      "Luftfrachtassistent/in",
-      "Luftfrachtkaufmann/-frau",
-      "Luftverkehrskaufmann/-frau",
-      "Operationsagent/in (Luftverkehr)",
-      "Verkehrskaufmann/-frau - Luftverkehr"
-    ],
-    "entgelt": 4027,
-    "entgeltQ25": 3407,
-    "entgeltQ75": 5134
   },
   {
     "kldb": "41333",
@@ -13575,6 +13575,30 @@
     "entgeltQ75": 5167
   },
   {
+    "kldb": "34232",
+    "name": "Berufe in der Kältetechnik - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Kälte- und Klimaanlagenmonteur/in",
+      "Kälteanlagenbauer/in",
+      "Kälteanlagenmechaniker/in",
+      "Kältemaschinenwärter/in",
+      "Kältemaschinist/in",
+      "Kältemechaniker/in",
+      "Kältemechatroniker/in",
+      "Kältemonteur/in",
+      "Kältetechnikmechaniker/in",
+      "Kältetechnikmechatroniker/in",
+      "Kühl- und Klimaanlagenmonteur/in",
+      "Kühlanlagenbauer/in",
+      "Kühlanlageninstallateur/in",
+      "Kühlhauswärter/in",
+      "Mechatroniker/in - Kältetechnik"
+    ],
+    "entgelt": 3881,
+    "entgeltQ25": 3330,
+    "entgeltQ75": 4588
+  },
+  {
     "kldb": "26332",
     "name": "Berufe in der Luftverkehrs-, Schiffs- und Fahrzeugelektronik - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -13611,30 +13635,6 @@
     "entgelt": 3881,
     "entgeltQ25": 3248,
     "entgeltQ75": 4873
-  },
-  {
-    "kldb": "34232",
-    "name": "Berufe in der Kältetechnik - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Kälte- und Klimaanlagenmonteur/in",
-      "Kälteanlagenbauer/in",
-      "Kälteanlagenmechaniker/in",
-      "Kältemaschinenwärter/in",
-      "Kältemaschinist/in",
-      "Kältemechaniker/in",
-      "Kältemechatroniker/in",
-      "Kältemonteur/in",
-      "Kältetechnikmechaniker/in",
-      "Kältetechnikmechatroniker/in",
-      "Kühl- und Klimaanlagenmonteur/in",
-      "Kühlanlagenbauer/in",
-      "Kühlanlageninstallateur/in",
-      "Kühlhauswärter/in",
-      "Mechatroniker/in - Kältetechnik"
-    ],
-    "entgelt": 3881,
-    "entgeltQ25": 3330,
-    "entgeltQ75": 4588
   },
   {
     "kldb": "21362",
@@ -13748,6 +13748,28 @@
     "entgeltQ75": 4742
   },
   {
+    "kldb": "73202",
+    "name": "Berufe in der öffentlichen Verwaltung (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Beamt(er/in) - Bund (mittl. Dienst)",
+      "Beamt(er/in) - Kommunalverwaltung (mittl. Dienst)",
+      "Beamt(er/in) - Kommunalverwaltung (mittl. techn. Dienst)",
+      "Beamt(er/in) - Länder (mittl. Dienst)",
+      "Beamt(er/in) - Länder (mittl. techn. Dienst)",
+      "Beamt(er/in) - mittlerer nichttechnischer Dienst",
+      "Beamt(er/in) - mittlerer technischer Dienst",
+      "Finanzkaufmann/-frau - Staatshaushalt",
+      "Verwaltungsfachangestellte/r - Bundesverkehrsverwaltung",
+      "Verwaltungsfachangestellte/r - Bundesverwaltung",
+      "Verwaltungsfachangestellte/r - Kommunalverwaltung",
+      "Verwaltungsfachangestellte/r - Landesverwaltung",
+      "Verwaltungsgehilfe/-gehilfin"
+    ],
+    "entgelt": 3873,
+    "entgeltQ25": 3441,
+    "entgeltQ75": 4616
+  },
+  {
     "kldb": "22393",
     "name": "Aufsichtskräfte - Holzbe- und -verarbeitung",
     "berufe": [
@@ -13804,28 +13826,6 @@
     "entgelt": 3873,
     "entgeltQ25": 3298,
     "entgeltQ75": 4641
-  },
-  {
-    "kldb": "73202",
-    "name": "Berufe in der öffentlichen Verwaltung (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Beamt(er/in) - Bund (mittl. Dienst)",
-      "Beamt(er/in) - Kommunalverwaltung (mittl. Dienst)",
-      "Beamt(er/in) - Kommunalverwaltung (mittl. techn. Dienst)",
-      "Beamt(er/in) - Länder (mittl. Dienst)",
-      "Beamt(er/in) - Länder (mittl. techn. Dienst)",
-      "Beamt(er/in) - mittlerer nichttechnischer Dienst",
-      "Beamt(er/in) - mittlerer technischer Dienst",
-      "Finanzkaufmann/-frau - Staatshaushalt",
-      "Verwaltungsfachangestellte/r - Bundesverkehrsverwaltung",
-      "Verwaltungsfachangestellte/r - Bundesverwaltung",
-      "Verwaltungsfachangestellte/r - Kommunalverwaltung",
-      "Verwaltungsfachangestellte/r - Landesverwaltung",
-      "Verwaltungsgehilfe/-gehilfin"
-    ],
-    "entgelt": 3873,
-    "entgeltQ25": 3441,
-    "entgeltQ75": 4616
   },
   {
     "kldb": "24202",
@@ -14110,6 +14110,40 @@
     "entgeltQ75": 4421
   },
   {
+    "kldb": "51593",
+    "name": "Aufsichtskräfte - Überwachung und Steuerung des Verkehrsbetriebs",
+    "berufe": [
+      "Bahnverkehrsmeister/in",
+      "Fahrbereitschaftsleiter/in",
+      "Fuhrhofaufseher/in",
+      "Fuhrhofverwalter/in",
+      "Fuhrparkaufseher/in",
+      "Fuhrparkleiter/in",
+      "Fuhrparkmeister/in",
+      "Fuhrparkverwalter/in",
+      "Industriemeister/in - Eisenbahn",
+      "Industriemeister/in - Kraftverkehr",
+      "Industriemeister/in - Werksbahnbetrieb",
+      "Kraftfahrzeugbetriebsleiter/in",
+      "Kraftfahrzeug-Einsatzleiter/in",
+      "Kraftfahrzeug-Industriemeister/in",
+      "Kraftverkehrsmeister/in",
+      "Meister/in - Bahnverkehr/B. Prof. Bahnverkehr",
+      "Meister/in - Ingenieurökonomie des Kraftverkehrs",
+      "Meister/in - Kraftverkehr",
+      "Meister/in - Leit- u. Sicherungstechnik (Eisenbahn)",
+      "Meister/in - Transportbetriebstechnik",
+      "Meister/in - Werksbahnbetrieb",
+      "Stützpunktleiter/in (Verkehrsbetrieb)",
+      "Verkehrsleiter/in - Kraftverkehrsunternehmen",
+      "Verkehrsmeister/in",
+      "Werkeisenbahnmeister/in"
+    ],
+    "entgelt": 3831,
+    "entgeltQ25": 3353,
+    "entgeltQ75": 4436
+  },
+  {
     "kldb": "23223",
     "name": "Berufe im Grafik-, Kommunikations- und Fotodesign - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -14163,40 +14197,6 @@
     "entgelt": 3831,
     "entgeltQ25": 3048,
     "entgeltQ75": 4951
-  },
-  {
-    "kldb": "51593",
-    "name": "Aufsichtskräfte - Überwachung und Steuerung des Verkehrsbetriebs",
-    "berufe": [
-      "Bahnverkehrsmeister/in",
-      "Fahrbereitschaftsleiter/in",
-      "Fuhrhofaufseher/in",
-      "Fuhrhofverwalter/in",
-      "Fuhrparkaufseher/in",
-      "Fuhrparkleiter/in",
-      "Fuhrparkmeister/in",
-      "Fuhrparkverwalter/in",
-      "Industriemeister/in - Eisenbahn",
-      "Industriemeister/in - Kraftverkehr",
-      "Industriemeister/in - Werksbahnbetrieb",
-      "Kraftfahrzeugbetriebsleiter/in",
-      "Kraftfahrzeug-Einsatzleiter/in",
-      "Kraftfahrzeug-Industriemeister/in",
-      "Kraftverkehrsmeister/in",
-      "Meister/in - Bahnverkehr/B. Prof. Bahnverkehr",
-      "Meister/in - Ingenieurökonomie des Kraftverkehrs",
-      "Meister/in - Kraftverkehr",
-      "Meister/in - Leit- u. Sicherungstechnik (Eisenbahn)",
-      "Meister/in - Transportbetriebstechnik",
-      "Meister/in - Werksbahnbetrieb",
-      "Stützpunktleiter/in (Verkehrsbetrieb)",
-      "Verkehrsleiter/in - Kraftverkehrsunternehmen",
-      "Verkehrsmeister/in",
-      "Werkeisenbahnmeister/in"
-    ],
-    "entgelt": 3831,
-    "entgeltQ25": 3353,
-    "entgeltQ75": 4436
   },
   {
     "kldb": "28393",
@@ -14545,19 +14545,6 @@
     "entgeltQ75": 4481
   },
   {
-    "kldb": "24382",
-    "name": "Berufe in der Metalloberflächenbehandlung (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Blechemaillierer/in",
-      "Emaillierer/in",
-      "Facharbeiter/in - Emailliertechnik",
-      "Patinierer/in"
-    ],
-    "entgelt": 3776,
-    "entgeltQ25": 3006,
-    "entgeltQ75": 4501
-  },
-  {
     "kldb": "34342",
     "name": "Berufe im Anlagen-, Behälter- und Apparatebau - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -14585,6 +14572,19 @@
     "entgelt": 3776,
     "entgeltQ25": 3148,
     "entgeltQ75": 4642
+  },
+  {
+    "kldb": "24382",
+    "name": "Berufe in der Metalloberflächenbehandlung (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Blechemaillierer/in",
+      "Emaillierer/in",
+      "Facharbeiter/in - Emailliertechnik",
+      "Patinierer/in"
+    ],
+    "entgelt": 3776,
+    "entgeltQ25": 3006,
+    "entgeltQ75": 4501
   },
   {
     "kldb": "52522",
@@ -14806,6 +14806,20 @@
     "entgeltQ75": 4661
   },
   {
+    "kldb": "73252",
+    "name": "Berufe in der Justizverwaltung - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Beamt(er/in) - Justizdienst (mittl. Dienst)",
+      "Beamt(er/in) - Justizverwaltung (mittl. Dienst)",
+      "Justizangestellte/r",
+      "Justizfachangestellte/r",
+      "Justizverwaltungsbeamt(er/in) (mittl. Dienst)"
+    ],
+    "entgelt": 3763,
+    "entgeltQ25": 3522,
+    "entgeltQ75": 4176
+  },
+  {
     "kldb": "11793",
     "name": "Aufsichtskräfte - Forst- und Jagdwirtschaft, Landschaftspflege",
     "berufe": [
@@ -14824,20 +14838,6 @@
     "entgelt": 3763,
     "entgeltQ25": 3197,
     "entgeltQ75": 4388
-  },
-  {
-    "kldb": "73252",
-    "name": "Berufe in der Justizverwaltung - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Beamt(er/in) - Justizdienst (mittl. Dienst)",
-      "Beamt(er/in) - Justizverwaltung (mittl. Dienst)",
-      "Justizangestellte/r",
-      "Justizfachangestellte/r",
-      "Justizverwaltungsbeamt(er/in) (mittl. Dienst)"
-    ],
-    "entgelt": 3763,
-    "entgeltQ25": 3522,
-    "entgeltQ75": 4176
   },
   {
     "kldb": "51212",
@@ -15208,6 +15208,26 @@
     "entgeltQ75": 4780
   },
   {
+    "kldb": "41432",
+    "name": "Berufe in der Baustoffprüfung - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Baustofflaborant/in",
+      "Baustoffprüfer/in",
+      "Baustoffprüfer/in - Asphalttechnik",
+      "Baustoffprüfer/in - Bituminöse Massen",
+      "Baustoffprüfer/in - Boden",
+      "Baustoffprüfer/in - Geotechnik",
+      "Baustoffprüfer/in - Mörtel und Beton",
+      "Baustoffprüfer/in - Mörtel- und Betontechnik",
+      "Betonprüfer/in",
+      "Laborant/in - Baustoffprüfung",
+      "Werkstoffprüfer/in Baustoffe"
+    ],
+    "entgelt": 3733,
+    "entgeltQ25": 3160,
+    "entgeltQ75": 4502
+  },
+  {
     "kldb": "22343",
     "name": "Berufe im Holz-, Möbel- und Innenausbau - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -15238,26 +15258,6 @@
     "entgelt": 3733,
     "entgeltQ25": 2985,
     "entgeltQ75": 4652
-  },
-  {
-    "kldb": "41432",
-    "name": "Berufe in der Baustoffprüfung - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Baustofflaborant/in",
-      "Baustoffprüfer/in",
-      "Baustoffprüfer/in - Asphalttechnik",
-      "Baustoffprüfer/in - Bituminöse Massen",
-      "Baustoffprüfer/in - Boden",
-      "Baustoffprüfer/in - Geotechnik",
-      "Baustoffprüfer/in - Mörtel und Beton",
-      "Baustoffprüfer/in - Mörtel- und Betontechnik",
-      "Betonprüfer/in",
-      "Laborant/in - Baustoffprüfung",
-      "Werkstoffprüfer/in Baustoffe"
-    ],
-    "entgelt": 3733,
-    "entgeltQ25": 3160,
-    "entgeltQ75": 4502
   },
   {
     "kldb": "42212",
@@ -16449,6 +16449,39 @@
     "entgeltQ75": 4238
   },
   {
+    "kldb": "33312",
+    "name": "Berufe in der Isolierung - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Apparateisolierer/in",
+      "Ausbaufacharbeiter/in - Wärme-, Kälte- u. Schallschutzarb.",
+      "Behälterisolierer/in",
+      "Facharbeiter/in - Isoliertechnik",
+      "Fassadenisolierer/in",
+      "Industrie-Isolierer/in",
+      "Isolierer/in",
+      "Isolierer/in im Bereich der Industrie",
+      "Isolierfacharbeiter/in",
+      "Isoliermonteur/in",
+      "Kälteisolierer/in",
+      "Kälteschutzisolierer/in",
+      "Maler/in und Lackierer/in - Dämmarbeiten",
+      "Maschinenisolierer/in",
+      "Rohrisolierer/in",
+      "Schallschutzisolierer/in",
+      "Vollwärmeschützer/in",
+      "Vollwärmeschutzfachkraft",
+      "Vollwärmeschutzmonteur/in",
+      "Vorarbeiter/in (Isolierbereich)",
+      "Wärme-, Kälte- und Schallschutzisolierer/in",
+      "Wärmedämmer/in",
+      "Wärmeisolierer/in",
+      "Wärmeschutzisolierer/in"
+    ],
+    "entgelt": 3569,
+    "entgeltQ25": 2986,
+    "entgeltQ75": 4251
+  },
+  {
     "kldb": "29293",
     "name": "Aufsichtskräfte - Lebensmittel- und Genussmittelherstellung",
     "berufe": [
@@ -16508,39 +16541,6 @@
     "entgeltQ75": 4642
   },
   {
-    "kldb": "33312",
-    "name": "Berufe in der Isolierung - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Apparateisolierer/in",
-      "Ausbaufacharbeiter/in - Wärme-, Kälte- u. Schallschutzarb.",
-      "Behälterisolierer/in",
-      "Facharbeiter/in - Isoliertechnik",
-      "Fassadenisolierer/in",
-      "Industrie-Isolierer/in",
-      "Isolierer/in",
-      "Isolierer/in im Bereich der Industrie",
-      "Isolierfacharbeiter/in",
-      "Isoliermonteur/in",
-      "Kälteisolierer/in",
-      "Kälteschutzisolierer/in",
-      "Maler/in und Lackierer/in - Dämmarbeiten",
-      "Maschinenisolierer/in",
-      "Rohrisolierer/in",
-      "Schallschutzisolierer/in",
-      "Vollwärmeschützer/in",
-      "Vollwärmeschutzfachkraft",
-      "Vollwärmeschutzmonteur/in",
-      "Vorarbeiter/in (Isolierbereich)",
-      "Wärme-, Kälte- und Schallschutzisolierer/in",
-      "Wärmedämmer/in",
-      "Wärmeisolierer/in",
-      "Wärmeschutzisolierer/in"
-    ],
-    "entgelt": 3569,
-    "entgeltQ25": 2986,
-    "entgeltQ75": 4251
-  },
-  {
     "kldb": "26212",
     "name": "Berufe in der Bauelektrik - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -16578,6 +16578,24 @@
     "entgeltQ75": 4303
   },
   {
+    "kldb": "73312",
+    "name": "Berufe im Archivwesen - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Aktenverwalter/in",
+      "Archivfachkraft",
+      "Archivsachbearbeiter/in",
+      "Beamt(er/in) - Archivdienst (mittl. Dienst)",
+      "Bildarchivfachkraft",
+      "Fachangestellte/r - Archiv",
+      "Fachangestellte/r für Medien- u. Info.Dienste - Archiv",
+      "Fachangestellte/r für Medien- u. Info.Dienste - Bildagentur",
+      "Registrator/in"
+    ],
+    "entgelt": 3566,
+    "entgeltQ25": 3176,
+    "entgeltQ75": 4110
+  },
+  {
     "kldb": "26322",
     "name": "Berufe in der Mikrosystemtechnik - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -16595,24 +16613,6 @@
     "entgelt": 3566,
     "entgeltQ25": 2956,
     "entgeltQ75": 4419
-  },
-  {
-    "kldb": "73312",
-    "name": "Berufe im Archivwesen - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Aktenverwalter/in",
-      "Archivfachkraft",
-      "Archivsachbearbeiter/in",
-      "Beamt(er/in) - Archivdienst (mittl. Dienst)",
-      "Bildarchivfachkraft",
-      "Fachangestellte/r - Archiv",
-      "Fachangestellte/r für Medien- u. Info.Dienste - Archiv",
-      "Fachangestellte/r für Medien- u. Info.Dienste - Bildagentur",
-      "Registrator/in"
-    ],
-    "entgelt": 3566,
-    "entgeltQ25": 3176,
-    "entgeltQ75": 4110
   },
   {
     "kldb": "22182",
@@ -16861,22 +16861,6 @@
     "entgeltQ75": 3988
   },
   {
-    "kldb": "11283",
-    "name": "Berufe in der Tierwirtschaft (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Fachberater/in - Futtermittel",
-      "Futterberater/in",
-      "Futtermeister/in",
-      "Futtermittelberater/in",
-      "Futtermittelkontrolleur/in",
-      "Fütterungsberater/in",
-      "Stallmeister/in"
-    ],
-    "entgelt": 3538,
-    "entgeltQ25": 2599,
-    "entgeltQ75": 4683
-  },
-  {
     "kldb": "23122",
     "name": "Berufe in der Papierverarbeitung und Verpackungstechnik - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -16939,6 +16923,22 @@
     "entgelt": 3538,
     "entgeltQ25": 2997,
     "entgeltQ75": 4083
+  },
+  {
+    "kldb": "11283",
+    "name": "Berufe in der Tierwirtschaft (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Fachberater/in - Futtermittel",
+      "Futterberater/in",
+      "Futtermeister/in",
+      "Futtermittelberater/in",
+      "Futtermittelkontrolleur/in",
+      "Fütterungsberater/in",
+      "Stallmeister/in"
+    ],
+    "entgelt": 3538,
+    "entgeltQ25": 2599,
+    "entgeltQ75": 4683
   },
   {
     "kldb": "24422",
@@ -17435,28 +17435,6 @@
     "entgeltQ75": 3880
   },
   {
-    "kldb": "32102",
-    "name": "Berufe im Hochbau (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Baufacharbeiter/in - Hochbau",
-      "Baufachwerker/in - Hochbau (§66 BBiG/§42m HWO)",
-      "Baufachwerker/in (Hochbau)",
-      "Betonfertighausmonteur/in",
-      "Facharbeiter/in - Hochbau",
-      "Fertigbaufacharbeiter/in",
-      "Fertighausmonteur/in (Beton)",
-      "Hochbaufacharbeiter/in (ohne Angabe des Schwerpunkts)",
-      "Hochbaufachwerker/in",
-      "Hochbauvorarbeiter/in",
-      "Monteur/in - Fertighäuser (Beton)",
-      "Spezialbaufacharbeiter/in (Hochbau)",
-      "Vorarbeiter/in - Hochbau"
-    ],
-    "entgelt": 3489,
-    "entgeltQ25": 2880,
-    "entgeltQ75": 4100
-  },
-  {
     "kldb": "33322",
     "name": "Berufe in der Zimmerei - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -17497,6 +17475,28 @@
     "entgelt": 3489,
     "entgeltQ25": 3064,
     "entgeltQ75": 3924
+  },
+  {
+    "kldb": "32102",
+    "name": "Berufe im Hochbau (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Baufacharbeiter/in - Hochbau",
+      "Baufachwerker/in - Hochbau (§66 BBiG/§42m HWO)",
+      "Baufachwerker/in (Hochbau)",
+      "Betonfertighausmonteur/in",
+      "Facharbeiter/in - Hochbau",
+      "Fertigbaufacharbeiter/in",
+      "Fertighausmonteur/in (Beton)",
+      "Hochbaufacharbeiter/in (ohne Angabe des Schwerpunkts)",
+      "Hochbaufachwerker/in",
+      "Hochbauvorarbeiter/in",
+      "Monteur/in - Fertighäuser (Beton)",
+      "Spezialbaufacharbeiter/in (Hochbau)",
+      "Vorarbeiter/in - Hochbau"
+    ],
+    "entgelt": 3489,
+    "entgeltQ25": 2880,
+    "entgeltQ75": 4100
   },
   {
     "kldb": "11113",
@@ -18535,21 +18535,6 @@
     "entgeltQ75": 3916
   },
   {
-    "kldb": "63124",
-    "name": "Sport- und Fitnesskaufleute, Sportmanager/innen - hoch komplexe Tätigkeiten",
-    "berufe": [
-      "Dipl.-Sportökonom/in (FH/Uni)",
-      "Fitnessökonom/in (Hochschule)",
-      "Manager/in für Fitness- und Freizeitunternehmen",
-      "Sportmanager/in, -ökonom/in",
-      "Sportökonom/in",
-      "Sportvereinsmanager/in"
-    ],
-    "entgelt": 3336,
-    "entgeltQ25": 2587,
-    "entgeltQ75": 4546
-  },
-  {
     "kldb": "82233",
     "name": "Berufe in der Ernährungsberatung - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -18565,6 +18550,21 @@
     "entgelt": 3336,
     "entgeltQ25": 2682,
     "entgeltQ75": 4118
+  },
+  {
+    "kldb": "63124",
+    "name": "Sport- und Fitnesskaufleute, Sportmanager/innen - hoch komplexe Tätigkeiten",
+    "berufe": [
+      "Dipl.-Sportökonom/in (FH/Uni)",
+      "Fitnessökonom/in (Hochschule)",
+      "Manager/in für Fitness- und Freizeitunternehmen",
+      "Sportmanager/in, -ökonom/in",
+      "Sportökonom/in",
+      "Sportvereinsmanager/in"
+    ],
+    "entgelt": 3336,
+    "entgeltQ25": 2587,
+    "entgeltQ75": 4546
   },
   {
     "kldb": "81143",
@@ -18920,6 +18920,22 @@
     "entgeltQ75": 4201
   },
   {
+    "kldb": "94413",
+    "name": "Berufe in der Regie - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Erste/r Regieassistent/in",
+      "Inspizient/in",
+      "Regie-Anfänger/in",
+      "Regieassistent/in",
+      "Spielleiterassistent/in",
+      "Theaterinspizient/in",
+      "Zweite/r Regieassistent/in"
+    ],
+    "entgelt": 3274,
+    "entgeltQ25": 2977,
+    "entgeltQ75": 3954
+  },
+  {
     "kldb": "24411",
     "name": "Berufe im Metallbau - Helfer-/Anlerntätigkeiten",
     "berufe": [
@@ -18957,22 +18973,6 @@
     "entgelt": 3274,
     "entgeltQ25": 2561,
     "entgeltQ75": 4496
-  },
-  {
-    "kldb": "94413",
-    "name": "Berufe in der Regie - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Erste/r Regieassistent/in",
-      "Inspizient/in",
-      "Regie-Anfänger/in",
-      "Regieassistent/in",
-      "Spielleiterassistent/in",
-      "Theaterinspizient/in",
-      "Zweite/r Regieassistent/in"
-    ],
-    "entgelt": 3274,
-    "entgeltQ25": 2977,
-    "entgeltQ75": 3954
   },
   {
     "kldb": "21123",
@@ -19302,6 +19302,31 @@
     "entgeltQ75": 3770
   },
   {
+    "kldb": "81733",
+    "name": "Berufe in der Sprachtherapie - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Atem-, Sprech- u. Stimmlehrer/in - therapeutischen Bereich",
+      "Atem-, Sprech- und Stimmlehrer/in",
+      "Atem-,Sprech-,Stimmlehrer/in-künstlerisch-musischer Bereich",
+      "Atemlehrer/in",
+      "Atempädagoge/-pädagogin",
+      "Atemtherapeut/in",
+      "Logopäde/Logopädin",
+      "Logotherapeutische/r Berater/in",
+      "Sprachheilpädagoge/-pädagogin",
+      "Sprachheiltherapeut/in",
+      "Sprachtherapeut/in",
+      "Sprecherzieher/in",
+      "Sprechlehrer/in",
+      "Sprechtherapeut/in",
+      "Stimmlehrer/in",
+      "Stimmtherapeut/in"
+    ],
+    "entgelt": 3204,
+    "entgeltQ25": 2671,
+    "entgeltQ75": 3723
+  },
+  {
     "kldb": "28312",
     "name": "Berufe in der Lederherstellung - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -19338,31 +19363,6 @@
     "entgelt": 3204,
     "entgeltQ25": 2591,
     "entgeltQ75": 3684
-  },
-  {
-    "kldb": "81733",
-    "name": "Berufe in der Sprachtherapie - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Atem-, Sprech- u. Stimmlehrer/in - therapeutischen Bereich",
-      "Atem-, Sprech- und Stimmlehrer/in",
-      "Atem-,Sprech-,Stimmlehrer/in-künstlerisch-musischer Bereich",
-      "Atemlehrer/in",
-      "Atempädagoge/-pädagogin",
-      "Atemtherapeut/in",
-      "Logopäde/Logopädin",
-      "Logotherapeutische/r Berater/in",
-      "Sprachheilpädagoge/-pädagogin",
-      "Sprachheiltherapeut/in",
-      "Sprachtherapeut/in",
-      "Sprecherzieher/in",
-      "Sprechlehrer/in",
-      "Sprechtherapeut/in",
-      "Stimmlehrer/in",
-      "Stimmtherapeut/in"
-    ],
-    "entgelt": 3204,
-    "entgeltQ25": 2671,
-    "entgeltQ75": 3723
   },
   {
     "kldb": "63212",
@@ -19803,21 +19803,6 @@
     "entgeltQ75": 3739
   },
   {
-    "kldb": "51112",
-    "name": "Berufe im technischen Eisenbahnbetrieb - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Achslagerprüfer/in (Bahn)",
-      "Bahnbetriebsschlosser/in",
-      "Bremser/in (Bahn)",
-      "Eisenbahnschlosser/in",
-      "Stellwerkschlosser/in",
-      "Wagenuntersucher/in (Bahn)"
-    ],
-    "entgelt": 3132,
-    "entgeltQ25": 2572,
-    "entgeltQ75": 3822
-  },
-  {
     "kldb": "54142",
     "name": "Berufe in der Maschinen- und Anlagenreinigung - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -19849,6 +19834,21 @@
     "entgelt": 3132,
     "entgeltQ25": 2607,
     "entgeltQ75": 3713
+  },
+  {
+    "kldb": "51112",
+    "name": "Berufe im technischen Eisenbahnbetrieb - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Achslagerprüfer/in (Bahn)",
+      "Bahnbetriebsschlosser/in",
+      "Bremser/in (Bahn)",
+      "Eisenbahnschlosser/in",
+      "Stellwerkschlosser/in",
+      "Wagenuntersucher/in (Bahn)"
+    ],
+    "entgelt": 3132,
+    "entgeltQ25": 2572,
+    "entgeltQ75": 3822
   },
   {
     "kldb": "63112",
@@ -20179,21 +20179,6 @@
     "entgeltQ75": 3641
   },
   {
-    "kldb": "32172",
-    "name": "Berufe im Bauwerksabbruch - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Bauwerksmechaniker/in für Abbruch und Betontrenntechnik",
-      "Betonbohrer/in",
-      "Betontrennfachmann/-frau",
-      "Hochbaufacharbeiter/in - Abbruch- und Betontrenntechnikarb.",
-      "Kernbohrer/in",
-      "Mechaniker/in - Abbruch und Betontrenntechnik"
-    ],
-    "entgelt": 3091,
-    "entgeltQ25": 2696,
-    "entgeltQ75": 3620
-  },
-  {
     "kldb": "33212",
     "name": "Berufe für Maler- und Lackiererarbeiten - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -20239,6 +20224,21 @@
     "entgelt": 3091,
     "entgeltQ25": 2726,
     "entgeltQ75": 3395
+  },
+  {
+    "kldb": "32172",
+    "name": "Berufe im Bauwerksabbruch - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Bauwerksmechaniker/in für Abbruch und Betontrenntechnik",
+      "Betonbohrer/in",
+      "Betontrennfachmann/-frau",
+      "Hochbaufacharbeiter/in - Abbruch- und Betontrenntechnikarb.",
+      "Kernbohrer/in",
+      "Mechaniker/in - Abbruch und Betontrenntechnik"
+    ],
+    "entgelt": 3091,
+    "entgeltQ25": 2696,
+    "entgeltQ75": 3620
   },
   {
     "kldb": "81822",
@@ -20575,28 +20575,6 @@
     "entgeltQ75": 3342
   },
   {
-    "kldb": "24511",
-    "name": "Berufe in der Feinwerktechnik - Helfer-/Anlerntätigkeiten",
-    "berufe": [
-      "Besteckeinkitter/in",
-      "Feinmechanikerhelfer/in",
-      "Feinwerkmechanikerhelfer/in",
-      "Gürtlergehilfe/in",
-      "Helfer/in - Feinmechanik",
-      "Helfer/in - Feinmechanik, Werkzeugbau",
-      "Helfer/in - Werkzeugbau",
-      "Metallfeinbauerhelfer/in",
-      "Sägenrichterhelfer/in",
-      "Uhrmacherhelfer/in",
-      "Werkzeugmacherhelfer/in",
-      "Werkzeugmechanikerhelfer/in",
-      "Zifferblattsetzer/in"
-    ],
-    "entgelt": 3049,
-    "entgeltQ25": 2554,
-    "entgeltQ75": 3559
-  },
-  {
     "kldb": "32201",
     "name": "Berufe im Tiefbau (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten",
     "berufe": [
@@ -20641,6 +20619,28 @@
     "entgelt": 3049,
     "entgeltQ25": 2591,
     "entgeltQ75": 3567
+  },
+  {
+    "kldb": "24511",
+    "name": "Berufe in der Feinwerktechnik - Helfer-/Anlerntätigkeiten",
+    "berufe": [
+      "Besteckeinkitter/in",
+      "Feinmechanikerhelfer/in",
+      "Feinwerkmechanikerhelfer/in",
+      "Gürtlergehilfe/in",
+      "Helfer/in - Feinmechanik",
+      "Helfer/in - Feinmechanik, Werkzeugbau",
+      "Helfer/in - Werkzeugbau",
+      "Metallfeinbauerhelfer/in",
+      "Sägenrichterhelfer/in",
+      "Uhrmacherhelfer/in",
+      "Werkzeugmacherhelfer/in",
+      "Werkzeugmechanikerhelfer/in",
+      "Zifferblattsetzer/in"
+    ],
+    "entgelt": 3049,
+    "entgeltQ25": 2554,
+    "entgeltQ75": 3559
   },
   {
     "kldb": "21342",
@@ -21184,6 +21184,22 @@
     "entgeltQ75": 3385
   },
   {
+    "kldb": "83142",
+    "name": "Berufe in der Haus- und Familienpflege - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Alltagsbetreuer/in",
+      "Assistent/in - Sozialpflege",
+      "Fachkraft - Pflegeassistenz",
+      "Sozialassistent/in",
+      "Sozialbetreuer/in",
+      "Sozialhelfer/in",
+      "Sozialpflegeassistent/in"
+    ],
+    "entgelt": 2994,
+    "entgeltQ25": 2516,
+    "entgeltQ75": 3557
+  },
+  {
     "kldb": "11711",
     "name": "Berufe in der Forstwirtschaft - Helfer-/Anlerntätigkeiten",
     "berufe": [
@@ -21205,22 +21221,6 @@
     "entgelt": 2994,
     "entgeltQ25": 2434,
     "entgeltQ75": 3680
-  },
-  {
-    "kldb": "83142",
-    "name": "Berufe in der Haus- und Familienpflege - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Alltagsbetreuer/in",
-      "Assistent/in - Sozialpflege",
-      "Fachkraft - Pflegeassistenz",
-      "Sozialassistent/in",
-      "Sozialbetreuer/in",
-      "Sozialhelfer/in",
-      "Sozialpflegeassistent/in"
-    ],
-    "entgelt": 2994,
-    "entgeltQ25": 2516,
-    "entgeltQ75": 3557
   },
   {
     "kldb": "21411",
@@ -22093,18 +22093,6 @@
     "entgeltQ75": 3629
   },
   {
-    "kldb": "81103",
-    "name": "Medizinische Fachangestellte (ohne Spezialisierung) - komplexe Spezialistentätigkeiten",
-    "berufe": [
-      "Arztfachhelfer/in",
-      "Berufsspezialist/in - ambulante medizinische Versorgung",
-      "Praxisassistent/in (nicht ärztlich)"
-    ],
-    "entgelt": 2858,
-    "entgeltQ25": 2226,
-    "entgeltQ75": 3513
-  },
-  {
     "kldb": "82513",
     "name": "Berufe in der Orthopädie- und Rehatechnik - komplexe Spezialistentätigkeiten",
     "berufe": [
@@ -22119,6 +22107,18 @@
     "entgelt": 2858,
     "entgeltQ25": 2481,
     "entgeltQ75": 3460
+  },
+  {
+    "kldb": "81103",
+    "name": "Medizinische Fachangestellte (ohne Spezialisierung) - komplexe Spezialistentätigkeiten",
+    "berufe": [
+      "Arztfachhelfer/in",
+      "Berufsspezialist/in - ambulante medizinische Versorgung",
+      "Praxisassistent/in (nicht ärztlich)"
+    ],
+    "entgelt": 2858,
+    "entgeltQ25": 2226,
+    "entgeltQ75": 3513
   },
   {
     "kldb": "11502",
@@ -22220,6 +22220,24 @@
     "entgeltQ75": 3323
   },
   {
+    "kldb": "33102",
+    "name": "Berufe in der Bodenverlegung (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Ausbaufacharbeiter/in - Fußbodenlegerarbeiten",
+      "Bodenleger/in",
+      "Bodenverleger/in",
+      "Fußbodenleger/in",
+      "Linoleumleger/in",
+      "Raumausstatter/in - Boden",
+      "Teppichbodenverleger/in",
+      "Teppichverleger/in",
+      "Vorarbeiter/in - Bodenverlegung"
+    ],
+    "entgelt": 2817,
+    "entgeltQ25": 2426,
+    "entgeltQ75": 3258
+  },
+  {
     "kldb": "32101",
     "name": "Berufe im Hochbau (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten",
     "berufe": [
@@ -22243,22 +22261,19 @@
     "entgeltQ75": 3300
   },
   {
-    "kldb": "33102",
-    "name": "Berufe in der Bodenverlegung (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten",
+    "kldb": "82522",
+    "name": "Berufe in der Augenoptik - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
-      "Ausbaufacharbeiter/in - Fußbodenlegerarbeiten",
-      "Bodenleger/in",
-      "Bodenverleger/in",
-      "Fußbodenleger/in",
-      "Linoleumleger/in",
-      "Raumausstatter/in - Boden",
-      "Teppichbodenverleger/in",
-      "Teppichverleger/in",
-      "Vorarbeiter/in - Bodenverlegung"
+      "Augenoptiker/in",
+      "Augenoptikergehilfe/-gehilfin",
+      "Facharbeiter/in - Augenoptik",
+      "Fachoptiker/in",
+      "Kontaktlinsenanpasser/in",
+      "Optiker/in"
     ],
-    "entgelt": 2817,
-    "entgeltQ25": 2426,
-    "entgeltQ75": 3258
+    "entgelt": 2816,
+    "entgeltQ25": 2428,
+    "entgeltQ75": 3284
   },
   {
     "kldb": "22112",
@@ -22288,21 +22303,6 @@
     "entgelt": 2816,
     "entgeltQ25": 2416,
     "entgeltQ75": 3546
-  },
-  {
-    "kldb": "82522",
-    "name": "Berufe in der Augenoptik - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Augenoptiker/in",
-      "Augenoptikergehilfe/-gehilfin",
-      "Facharbeiter/in - Augenoptik",
-      "Fachoptiker/in",
-      "Kontaktlinsenanpasser/in",
-      "Optiker/in"
-    ],
-    "entgelt": 2816,
-    "entgeltQ25": 2428,
-    "entgeltQ75": 3284
   },
   {
     "kldb": "82512",
@@ -23187,6 +23187,30 @@
     "entgeltQ75": 3040
   },
   {
+    "kldb": "62422",
+    "name": "Berufe im Verkauf von Sanitäts- und Medizinbedarf - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Fachberater/in - medizinisch-technische Rehabilitation",
+      "Fachberater/in - Medizintech. und medizinische Einrichtungen",
+      "Fachberater/in - orthopädische Hilfsmittel",
+      "Fachberater/in - Rehatechnik und Sanitätshauswaren",
+      "Fachberater/in - Sanitätsfachhandel",
+      "Fachmann/-frau - Rehatechnik/Sanitätshauswaren",
+      "Fachverkäufer/in - medizinischer Bedarf",
+      "Fachverkäufer/in - medizinisch-technische Rehabilitation",
+      "Fachverkäufer/in - Medizintechnik, med. Einrichtungen",
+      "Fachverkäufer/in - orthopädische Hilfsmittel",
+      "Fachverkäufer/in - Sanitätsfachhandel",
+      "Kaufmann/-frau - Einzelhandel (Medizintechn./Sanitätsfach.)",
+      "Sanitätsfachverkäufer/in",
+      "Verkäufer/in - Medizintechnik, medizinische Einrichtungen",
+      "Verkäufer/in - Sanitätsfachhandel"
+    ],
+    "entgelt": 2667,
+    "entgeltQ25": 2329,
+    "entgeltQ75": 3443
+  },
+  {
     "kldb": "28322",
     "name": "Berufe in der Sattlerei und Herstellung von Lederutensilien - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -23264,30 +23288,6 @@
     "entgelt": 2667,
     "entgeltQ25": 2288,
     "entgeltQ75": 3321
-  },
-  {
-    "kldb": "62422",
-    "name": "Berufe im Verkauf von Sanitäts- und Medizinbedarf - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Fachberater/in - medizinisch-technische Rehabilitation",
-      "Fachberater/in - Medizintech. und medizinische Einrichtungen",
-      "Fachberater/in - orthopädische Hilfsmittel",
-      "Fachberater/in - Rehatechnik und Sanitätshauswaren",
-      "Fachberater/in - Sanitätsfachhandel",
-      "Fachmann/-frau - Rehatechnik/Sanitätshauswaren",
-      "Fachverkäufer/in - medizinischer Bedarf",
-      "Fachverkäufer/in - medizinisch-technische Rehabilitation",
-      "Fachverkäufer/in - Medizintechnik, med. Einrichtungen",
-      "Fachverkäufer/in - orthopädische Hilfsmittel",
-      "Fachverkäufer/in - Sanitätsfachhandel",
-      "Kaufmann/-frau - Einzelhandel (Medizintechn./Sanitätsfach.)",
-      "Sanitätsfachverkäufer/in",
-      "Verkäufer/in - Medizintechnik, medizinische Einrichtungen",
-      "Verkäufer/in - Sanitätsfachhandel"
-    ],
-    "entgelt": 2667,
-    "entgeltQ25": 2329,
-    "entgeltQ75": 3443
   },
   {
     "kldb": "61142",
@@ -24237,26 +24237,6 @@
     "entgeltQ75": 3005
   },
   {
-    "kldb": "12112",
-    "name": "Berufe im Obst- und Gemüsebau - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Champignonzüchter/in",
-      "Edelpilzzüchter/in",
-      "Gärtner/in - Gemüsebau",
-      "Gärtner/in - Gemüseproduktion unter Glas und Plasten",
-      "Gärtner/in - Obstbau",
-      "Gemüsebauer/-bäuerin",
-      "Gemüsegärtner/in",
-      "Obstbauer/-bäuerin (Gärtner/in)",
-      "Obstbaufacharbeiter/in",
-      "Obstgärtner/in",
-      "Pilzzüchter/in (Edelpilzzucht)"
-    ],
-    "entgelt": 2492,
-    "entgeltQ25": 2156,
-    "entgeltQ75": 2944
-  },
-  {
     "kldb": "54152",
     "name": "Berufe in der Fahrzeugreinigung - fachlich ausgerichtete Tätigkeiten",
     "berufe": [
@@ -24284,6 +24264,26 @@
     "entgelt": 2492,
     "entgeltQ25": 2197,
     "entgeltQ75": 3042
+  },
+  {
+    "kldb": "12112",
+    "name": "Berufe im Obst- und Gemüsebau - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Champignonzüchter/in",
+      "Edelpilzzüchter/in",
+      "Gärtner/in - Gemüsebau",
+      "Gärtner/in - Gemüseproduktion unter Glas und Plasten",
+      "Gärtner/in - Obstbau",
+      "Gemüsebauer/-bäuerin",
+      "Gemüsegärtner/in",
+      "Obstbauer/-bäuerin (Gärtner/in)",
+      "Obstbaufacharbeiter/in",
+      "Obstgärtner/in",
+      "Pilzzüchter/in (Edelpilzzucht)"
+    ],
+    "entgelt": 2492,
+    "entgeltQ25": 2156,
+    "entgeltQ75": 2944
   },
   {
     "kldb": "29322",
@@ -24903,37 +24903,6 @@
     "entgeltQ75": 2803
   },
   {
-    "kldb": "28221",
-    "name": "Berufe in der Bekleidungs-, Hut- und Mützenherstellung - Helfer-/Anlerntätigkeiten",
-    "berufe": [
-      "Bekleidungshelfer/in",
-      "Bekleidungsstoffleger/in",
-      "Filz- und Hutstumpenmacherhelfer/in",
-      "Helfer/in - Bekleidung",
-      "Helfer/in - Filz- und Hutstumpenherstellung",
-      "Helfer/in - Hutstumpenherstellung",
-      "Helfer/in - Polsterei",
-      "Helfer/in - Schneiderei",
-      "Helfer/in - Textil, Bekleidung, Leder",
-      "Helfer/in - Textilverarbeitung",
-      "Hutstumpenmacherhelfer/in",
-      "Kleiderhefter/in",
-      "Lagenbildleger/in",
-      "Lagenleger/in (Bekleidungsindustrie)",
-      "Oberbekleidungsnäherhelfer/in",
-      "Polster- und Dekorationshelfer/in",
-      "Polstererhelfer/in",
-      "Schneiderhelfer/in",
-      "Stoffaufleger/in",
-      "Textilverarbeiterhelfer/in",
-      "Wäschenäherhelfer/in",
-      "Wäscheschneiderhelfer/in"
-    ],
-    "entgelt": 2306,
-    "entgeltQ25": 1962,
-    "entgeltQ75": 2809
-  },
-  {
     "kldb": "63301",
     "name": "Berufe im Gastronomieservice (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten",
     "berufe": [
@@ -24970,6 +24939,37 @@
     "entgelt": 2306,
     "entgeltQ25": 2051,
     "entgeltQ75": 2630
+  },
+  {
+    "kldb": "28221",
+    "name": "Berufe in der Bekleidungs-, Hut- und Mützenherstellung - Helfer-/Anlerntätigkeiten",
+    "berufe": [
+      "Bekleidungshelfer/in",
+      "Bekleidungsstoffleger/in",
+      "Filz- und Hutstumpenmacherhelfer/in",
+      "Helfer/in - Bekleidung",
+      "Helfer/in - Filz- und Hutstumpenherstellung",
+      "Helfer/in - Hutstumpenherstellung",
+      "Helfer/in - Polsterei",
+      "Helfer/in - Schneiderei",
+      "Helfer/in - Textil, Bekleidung, Leder",
+      "Helfer/in - Textilverarbeitung",
+      "Hutstumpenmacherhelfer/in",
+      "Kleiderhefter/in",
+      "Lagenbildleger/in",
+      "Lagenleger/in (Bekleidungsindustrie)",
+      "Oberbekleidungsnäherhelfer/in",
+      "Polster- und Dekorationshelfer/in",
+      "Polstererhelfer/in",
+      "Schneiderhelfer/in",
+      "Stoffaufleger/in",
+      "Textilverarbeiterhelfer/in",
+      "Wäschenäherhelfer/in",
+      "Wäscheschneiderhelfer/in"
+    ],
+    "entgelt": 2306,
+    "entgeltQ25": 1962,
+    "entgeltQ75": 2809
   },
   {
     "kldb": "54132",
@@ -25174,17 +25174,6 @@
     "entgelt": 1011,
     "entgeltQ25": 616,
     "entgeltQ75": 2346
-  },
-  {
-    "kldb": "73162",
-    "name": "Berufe im Verfassungsschutz - fachlich ausgerichtete Tätigkeiten",
-    "berufe": [
-      "Beamt(er/in) - Bundesnachrichtendienst (mittl. Dienst)",
-      "Beamt(er/in) - Verfassungsschutz (mittl. Dienst)"
-    ],
-    "entgelt": -100,
-    "entgeltQ25": -100,
-    "entgeltQ75": -100
   },
   {
     "kldb": "11114",
@@ -28380,6 +28369,17 @@
       "Richter/in",
       "Sozialrichter/in",
       "Verwaltungsrichter/in"
+    ],
+    "entgelt": "n/a",
+    "entgeltQ25": "n/a",
+    "entgeltQ75": "n/a"
+  },
+  {
+    "kldb": "73162",
+    "name": "Berufe im Verfassungsschutz - fachlich ausgerichtete Tätigkeiten",
+    "berufe": [
+      "Beamt(er/in) - Bundesnachrichtendienst (mittl. Dienst)",
+      "Beamt(er/in) - Verfassungsschutz (mittl. Dienst)"
     ],
     "entgelt": "n/a",
     "entgeltQ25": "n/a",
